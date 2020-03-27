@@ -7,6 +7,8 @@ import org.json.simple.JSONObject;
 
 public class Hackathon {
 
+	
+	//Change Data to 2 Decimal Format
 	BigDecimal formatchanger(String param)
 	{
 		BigDecimal value=new BigDecimal(param);
@@ -14,6 +16,8 @@ public class Hackathon {
 		return value;
 	}
 	
+	
+	//Pushing Max and Average Value to Database
 	void databaseConnectivity(String usecase, Double max,Double avg) throws SQLException
 	{
 		Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/memorydata","root","Password-1");		
@@ -24,6 +28,8 @@ public class Hackathon {
 		stm.executeUpdate("insert into data(Usecasename,maxmemory,avgmemory)values('"+usecase+"',"+max+","+avg+");");
 		System.out.println("Data Inserted into Database!");
 	}
+	
+	//Reading Values from text file and parsing to JSONObject
 	void tokenize() throws Exception 
 	{
 		String eachline;
@@ -35,27 +41,30 @@ public class Hackathon {
 		while((eachline=br.readLine())!=null)
 		{
 			linecount=linecount+1;
-			if(linecount%2==0)
+			if(linecount%2==0)				//Choosing only even line number to read values
 			{
 				transaction=transaction+1;
 				StringTokenizer st=new StringTokenizer(eachline," ");
-				st.nextToken();
-				value=Double.parseDouble(st.nextToken())/1024;
+				st.nextToken();				//To Eliminate first token -TOTAL 
+				value=Double.parseDouble(st.nextToken())/1024;		//fetching value and converting KB to MB
 				jsonvalues.put(transaction+"s",formatchanger(value.toString()));
-				sum+=value;
+				sum+=value;					//calculate sum value 
 			}
-			max=max<value?value:max;
+			max=max<value?value:max;		//finding maximum value
 		}
-		avg=sum/transaction;
+		avg=sum/transaction;				//finding average value
 		memory.put("values",jsonvalues);
 		memory.put("Usecasename","Sample");
 		memory.put("AverageMemory(MB)",formatchanger(avg.toString()));
 		memory.put("MaxMemory(MB)",formatchanger(max.toString()));
 		
 		String usecase="Sample";
-		JsonFileCreation(memory);
-		databaseConnectivity(usecase,max, avg);
+		JsonFileCreation(memory);//Writing JSONObject to File
+		databaseConnectivity(usecase,max, avg);//Wring Values to DataBase
+		br.close();
 	}
+	
+	//Creating JsonFile
 	void JsonFileCreation(JSONObject jsob) throws IOException
 	{
 		FileWriter file1=new FileWriter("result.json");
