@@ -1,0 +1,1876 @@
+          TOTAL   188766   180548     3980        0   129790   102138    27651
+               TOTAL:   188766       TOTAL SWAP PSS:        0
+        TOTAL   188514   180296     3980        0   129777   101950    27826
+               TOTAL:   188514       TOTAL SWAP PSS:        0
+        TOTAL   188331   180112     3980        0   129774   101946    27827
+               TOTAL:   188331       TOTAL SWAP PSS:        0
+        TOTAL   188321   180104     3980        0   129808   101945    27862
+               TOTAL:   188321       TOTAL SWAP PSS:        0
+        TOTAL   188337   180092     3988        0   129774   101916    27857
+               TOTAL:   188337       TOTAL SWAP PSS:        0
+        TOTAL   188325   180080     3988        0   129773   101905    27867
+               TOTAL:   188325       TOTAL SWAP PSS:        0
+        TOTAL   188341   180096     3988        0   129774   101904    27869
+               TOTAL:   188341       TOTAL SWAP PSS:        0
+        TOTAL   188345   180100     3988        0   129773   101904    27868
+               TOTAL:   188345       TOTAL SWAP PSS:        0
+        TOTAL   188329   180084     3988        0   129773   101903    27869
+               TOTAL:   188329       TOTAL SWAP PSS:        0
+        TOTAL   188403   180164     3988        0   129807   101945    27861
+               TOTAL:   188403       TOTAL SWAP PSS:        0
+        TOTAL   188348   180108     3988        0   129775   101919    27855
+               TOTAL:   188348       TOTAL SWAP PSS:        0
+        TOTAL   188323   180084     3988        0   129775   101919    27855
+               TOTAL:   188323       TOTAL SWAP PSS:        0
+        TOTAL   188316   180076     3988        0   129807   101934    27872
+               TOTAL:   188316       TOTAL SWAP PSS:        0
+        TOTAL   188360   180120     3988        0   129776   101919    27856
+               TOTAL:   188360       TOTAL SWAP PSS:        0
+        TOTAL   188319   180080     3988        0   129774   101914    27859
+               TOTAL:   188319       TOTAL SWAP PSS:        0
+        TOTAL   188319   180080     3988        0   129773   101911    27861
+               TOTAL:   188319       TOTAL SWAP PSS:        0
+        TOTAL   188320   180080     3988        0   129773   101909    27863
+               TOTAL:   188320       TOTAL SWAP PSS:        0
+        TOTAL   188311   180072     3988        0   129773   101926    27846
+               TOTAL:   188311       TOTAL SWAP PSS:        0
+        TOTAL   188311   180072     3988        0   129773   101909    27863
+               TOTAL:   188311       TOTAL SWAP PSS:        0
+        TOTAL   188328   180088     3988        0   129805   101930    27874
+               TOTAL:   188328       TOTAL SWAP PSS:        0
+        TOTAL   188316   180076     3988        0   129773   101917    27855
+               TOTAL:   188316       TOTAL SWAP PSS:        0
+        TOTAL   188325   180080     3988        0   129773   101919    27853
+               TOTAL:   188325       TOTAL SWAP PSS:        0
+        TOTAL   188318   180072     3988        0   129805   101933    27871
+               TOTAL:   188318       TOTAL SWAP PSS:        0
+        TOTAL   188325   180080     3988        0   129773   101917    27855
+               TOTAL:   188325       TOTAL SWAP PSS:        0
+        TOTAL   188325   180080     3988        0   129805   101933    27871
+               TOTAL:   188325       TOTAL SWAP PSS:        0
+        TOTAL   188338   180092     3988        0   129773   101919    27853
+               TOTAL:   188338       TOTAL SWAP PSS:        0
+        TOTAL   188346   180100     3988        0   129773   101917    27855
+               TOTAL:   188346       TOTAL SWAP PSS:        0
+        TOTAL   188326   180080     3988        0   129773   101917    27855
+               TOTAL:   188326       TOTAL SWAP PSS:        0
+        TOTAL   188321   180076     3988        0   129773   101917    27855
+               TOTAL:   188321       TOTAL SWAP PSS:        0
+        TOTAL   188325   180080     3988        0   129773   101918    27854
+               TOTAL:   188325       TOTAL SWAP PSS:        0
+        TOTAL   188333   180088     3988        0   129773   101917    27855
+               TOTAL:   188333       TOTAL SWAP PSS:        0
+        TOTAL   188337   180092     3988        0   129773   101917    27855
+               TOTAL:   188337       TOTAL SWAP PSS:        0
+        TOTAL   189481   181020     4136        0   133650   105333    28316
+               TOTAL:   189481       TOTAL SWAP PSS:        0
+        TOTAL   220349   202876    12948        0   130892   104221    26670
+               TOTAL:   220349       TOTAL SWAP PSS:        0
+        TOTAL   222632   201836    16280        0   130591   103737    26853
+               TOTAL:   222632       TOTAL SWAP PSS:        0
+        TOTAL   203595   182420    16660        0   130795   103698    27096
+               TOTAL:   203595       TOTAL SWAP PSS:        0
+        TOTAL   213301   191864    16908        0   130594   103617    26976
+               TOTAL:   213301       TOTAL SWAP PSS:        0
+        TOTAL   214324   192680    17064        0   130714   104102    26611
+               TOTAL:   214324       TOTAL SWAP PSS:        0
+        TOTAL   218219   192724    20900        0   130603   103860    26742
+               TOTAL:   218219       TOTAL SWAP PSS:        0
+        TOTAL   217990   192480    20908        0   130060   103435    26624
+               TOTAL:   217990       TOTAL SWAP PSS:        0
+        TOTAL   218063   192552    20908        0   129934   102808    27125
+               TOTAL:   218063       TOTAL SWAP PSS:        0
+        TOTAL   217534   192016    20916        0   129910   102754    27155
+               TOTAL:   217534       TOTAL SWAP PSS:        0
+        TOTAL   217278   191760    20916        0   130068   102645    27422
+               TOTAL:   217278       TOTAL SWAP PSS:        0
+        TOTAL   217203   191644    20952        0   129847   102492    27354
+               TOTAL:   217203       TOTAL SWAP PSS:        0
+        TOTAL   216970   191412    20952        0   129839   102465    27373
+               TOTAL:   216970       TOTAL SWAP PSS:        0
+        TOTAL   216974   191416    20952        0   129873   102544    27328
+               TOTAL:   216974       TOTAL SWAP PSS:        0
+        TOTAL   216846   191288    20952        0   129905   102516    27388
+               TOTAL:   216846       TOTAL SWAP PSS:        0
+        TOTAL   216842   191284    20952        0   129840   102480    27359
+               TOTAL:   216842       TOTAL SWAP PSS:        0
+        TOTAL   216778   191220    20952        0   129839   102479    27359
+               TOTAL:   216778       TOTAL SWAP PSS:        0
+        TOTAL   216779   191220    20952        0   129968   102549    27418
+               TOTAL:   216779       TOTAL SWAP PSS:        0
+        TOTAL   216779   191220    20952        0   129841   102492    27348
+               TOTAL:   216779       TOTAL SWAP PSS:        0
+        TOTAL   216752   191192    20952        0   129904   102584    27319
+               TOTAL:   216752       TOTAL SWAP PSS:        0
+        TOTAL   216780   191220    20952        0   129840   102482    27357
+               TOTAL:   216780       TOTAL SWAP PSS:        0
+        TOTAL   216716   191156    20952        0   129807   102465    27341
+               TOTAL:   216716       TOTAL SWAP PSS:        0
+        TOTAL   216772   191212    20952        0   129936   102569    27366
+               TOTAL:   216772       TOTAL SWAP PSS:        0
+        TOTAL   216852   191292    20952        0   129953   102612    27340
+               TOTAL:   216852       TOTAL SWAP PSS:        0
+        TOTAL   216865   191304    20952        0   129938   102676    27261
+               TOTAL:   216865       TOTAL SWAP PSS:        0
+        TOTAL   216868   191308    20952        0   129905   102633    27271
+               TOTAL:   216868       TOTAL SWAP PSS:        0
+        TOTAL   216796   191236    20952        0   129872   102567    27304
+               TOTAL:   216796       TOTAL SWAP PSS:        0
+        TOTAL   216795   191236    20952        0   129937   102602    27334
+               TOTAL:   216795       TOTAL SWAP PSS:        0
+        TOTAL   216847   191288    20952        0   129905   102647    27257
+               TOTAL:   216847       TOTAL SWAP PSS:        0
+        TOTAL   216812   191252    20952        0   129904   102568    27335
+               TOTAL:   216812       TOTAL SWAP PSS:        0
+        TOTAL   216863   191304    20952        0   129843   102667    27175
+               TOTAL:   216863       TOTAL SWAP PSS:        0
+        TOTAL   216816   191256    20952        0   129841   102653    27187
+               TOTAL:   216816       TOTAL SWAP PSS:        0
+        TOTAL   216832   191272    20952        0   129880   102673    27206
+               TOTAL:   216832       TOTAL SWAP PSS:        0
+        TOTAL   217054   191488    20952        0   129904   102645    27258
+               TOTAL:   217054       TOTAL SWAP PSS:        0
+        TOTAL   217141   191576    20952        0   129843   102488    27354
+               TOTAL:   217141       TOTAL SWAP PSS:        0
+        TOTAL   217117   191552    20952        0   129908   102533    27374
+               TOTAL:   217117       TOTAL SWAP PSS:        0
+        TOTAL   217138   191560    20952        0   129840   102505    27334
+               TOTAL:   217138       TOTAL SWAP PSS:        0
+        TOTAL   217118   191540    20952        0   129875   102574    27300
+               TOTAL:   217118       TOTAL SWAP PSS:        0
+        TOTAL   217090   191512    20952        0   129840   102545    27294
+               TOTAL:   217090       TOTAL SWAP PSS:        0
+        TOTAL   217098   191520    20952        0   129876   102570    27305
+               TOTAL:   217098       TOTAL SWAP PSS:        0
+        TOTAL   217122   191544    20952        0   129907   102519    27387
+               TOTAL:   217122       TOTAL SWAP PSS:        0
+        TOTAL   217114   191536    20952        0   129809   102463    27345
+               TOTAL:   217114       TOTAL SWAP PSS:        0
+        TOTAL   217131   191552    20952        0   129841   102474    27366
+               TOTAL:   217131       TOTAL SWAP PSS:        0
+        TOTAL   217091   191512    20952        0   129968   102536    27431
+               TOTAL:   217091       TOTAL SWAP PSS:        0
+        TOTAL   216853   191592    20264        0   129843   102549    27293
+               TOTAL:   216853       TOTAL SWAP PSS:        0
+        TOTAL   216820   191528    20264        0   129906   102517    27388
+               TOTAL:   216820       TOTAL SWAP PSS:        0
+        TOTAL   216791   191512    20264        0   129844   102480    27363
+               TOTAL:   216791       TOTAL SWAP PSS:        0
+        TOTAL   216697   191448    20232        0   129841   102471    27369
+               TOTAL:   216697       TOTAL SWAP PSS:        0
+        TOTAL   216697   191448    20232        0   129873   102487    27385
+               TOTAL:   216697       TOTAL SWAP PSS:        0
+        TOTAL   216698   191448    20232        0   129841   102472    27368
+               TOTAL:   216698       TOTAL SWAP PSS:        0
+        TOTAL   216701   191452    20232        0   129841   102486    27354
+               TOTAL:   216701       TOTAL SWAP PSS:        0
+        TOTAL   216705   191456    20232        0   129841   102475    27365
+               TOTAL:   216705       TOTAL SWAP PSS:        0
+        TOTAL   216682   191432    20232        0   129841   102490    27350
+               TOTAL:   216682       TOTAL SWAP PSS:        0
+        TOTAL   216673   191424    20232        0   129840   102466    27373
+               TOTAL:   216673       TOTAL SWAP PSS:        0
+        TOTAL   216817   191568    20232        0   129846   102468    27377
+               TOTAL:   216817       TOTAL SWAP PSS:        0
+        TOTAL   216718   191468    20232        0   129840   102135    27704
+               TOTAL:   216718       TOTAL SWAP PSS:        0
+        TOTAL   216429   191180    20232        0   129839   101989    27849
+               TOTAL:   216429       TOTAL SWAP PSS:        0
+        TOTAL   216421   191172    20232        0   129839   101989    27849
+               TOTAL:   216421       TOTAL SWAP PSS:        0
+        TOTAL   216330   191080    20232        0   129840   101991    27848
+               TOTAL:   216330       TOTAL SWAP PSS:        0
+        TOTAL   225560   201048    19644        0   129839   102026    27812
+               TOTAL:   225560       TOTAL SWAP PSS:        0
+        TOTAL   227139   202728    19608        0   129871   102025    27845
+               TOTAL:   227139       TOTAL SWAP PSS:        0
+        TOTAL   228013   203860    19476        0   129839   102009    27829
+               TOTAL:   228013       TOTAL SWAP PSS:        0
+        TOTAL   223289   199236    19424        0   129838   102007    27830
+               TOTAL:   223289       TOTAL SWAP PSS:        0
+        TOTAL   227607   203568    19424        0   129837   101997    27839
+               TOTAL:   227607       TOTAL SWAP PSS:        0
+        TOTAL   220286   196248    19424        0   129837   101998    27838
+               TOTAL:   220286       TOTAL SWAP PSS:        0
+        TOTAL   226735   202696    19424        0   129837   101996    27840
+               TOTAL:   226735       TOTAL SWAP PSS:        0
+        TOTAL   214702   190768    19364        0   129837   101996    27840
+               TOTAL:   214702       TOTAL SWAP PSS:        0
+        TOTAL   214685   190752    19364        0   129901   102013    27887
+               TOTAL:   214685       TOTAL SWAP PSS:        0
+        TOTAL   226381   202448    19364        0   129805   101948    27856
+               TOTAL:   226381       TOTAL SWAP PSS:        0
+        TOTAL   214671   190752    19356        0   129837   101963    27873
+               TOTAL:   214671       TOTAL SWAP PSS:        0
+        TOTAL   214671   190752    19356        0   129837   101961    27875
+               TOTAL:   214671       TOTAL SWAP PSS:        0
+        TOTAL   214671   190752    19356        0   129837   101961    27875
+               TOTAL:   214671       TOTAL SWAP PSS:        0
+        TOTAL   214676   190756    19356        0   129901   102013    27887
+               TOTAL:   214676       TOTAL SWAP PSS:        0
+        TOTAL   219261   195356    19356        0   130035   102362    27672
+               TOTAL:   219261       TOTAL SWAP PSS:        0
+        TOTAL   223819   200036    19248        0   130601   102313    28287
+               TOTAL:   223819       TOTAL SWAP PSS:        0
+        TOTAL   215626   200248     3240        0   129881   101915    27965
+               TOTAL:   215626       TOTAL SWAP PSS:        0
+        TOTAL   214824   200012     2308        0   129849   101897    27951
+               TOTAL:   214824       TOTAL SWAP PSS:        0
+        TOTAL   212126   197352     2244        0   129849   101897    27951
+               TOTAL:   212126       TOTAL SWAP PSS:        0
+        TOTAL   214140   199492     1992        0   129849   101897    27951
+               TOTAL:   214140       TOTAL SWAP PSS:        0
+        TOTAL   213323   199496     1868        0   129918   101931    27986
+               TOTAL:   213323       TOTAL SWAP PSS:        0
+        TOTAL   216258   203080     1744        0   129851   101917    27933
+               TOTAL:   216258       TOTAL SWAP PSS:        0
+        TOTAL   209225   196000     1744        0   130471   102560    27910
+               TOTAL:   209225       TOTAL SWAP PSS:        0
+        TOTAL   217020   204300     1692        0   129936   102583    27352
+               TOTAL:   217020       TOTAL SWAP PSS:        0
+        TOTAL   203997   191276     1692        0   129961   102560    27400
+               TOTAL:   203997       TOTAL SWAP PSS:        0
+        TOTAL   203944   191260     1692        0   130090   103047    27042
+               TOTAL:   203944       TOTAL SWAP PSS:        0
+        TOTAL   241826   230216     1648        0   130125   103207    26917
+               TOTAL:   241826       TOTAL SWAP PSS:        0
+        TOTAL   241880   230552     1564        0   131051   103634    27416
+               TOTAL:   241880       TOTAL SWAP PSS:        0
+        TOTAL   239230   227932     1564        0   129964   102785    27178
+               TOTAL:   239230       TOTAL SWAP PSS:        0
+        TOTAL   228558   217260     1564        0   129964   102786    27177
+               TOTAL:   228558       TOTAL SWAP PSS:        0
+        TOTAL   236486   225188     1564        0   129964   102781    27182
+               TOTAL:   236486       TOTAL SWAP PSS:        0
+        TOTAL   241918   230620     1564        0   129964   102782    27181
+               TOTAL:   241918       TOTAL SWAP PSS:        0
+        TOTAL   228628   217268     1628        0   129971   102994    26976
+               TOTAL:   228628       TOTAL SWAP PSS:        0
+        TOTAL   240544   229184     1628        0   129969   102985    26983
+               TOTAL:   240544       TOTAL SWAP PSS:        0
+        TOTAL   241551   230192     1628        0   130363   103182    27180
+               TOTAL:   241551       TOTAL SWAP PSS:        0
+        TOTAL   241721   230380     1604        0   129994   103037    26956
+               TOTAL:   241721       TOTAL SWAP PSS:        0
+        TOTAL   241899   230656     1564        0   129993   103029    26963
+               TOTAL:   241899       TOTAL SWAP PSS:        0
+        TOTAL   236172   224856     1576        0   130823   103472    27350
+               TOTAL:   236172       TOTAL SWAP PSS:        0
+        TOTAL   242212   230904     1568        0   130024   103060    26963
+               TOTAL:   242212       TOTAL SWAP PSS:        0
+        TOTAL   241483   230184     1568        0   130760   103419    27340
+               TOTAL:   241483       TOTAL SWAP PSS:        0
+        TOTAL   236873   225536     1572        0   130056   103097    26958
+               TOTAL:   236873       TOTAL SWAP PSS:        0
+        TOTAL   237923   226568     1584        0   130369   103287    27081
+               TOTAL:   237923       TOTAL SWAP PSS:        0
+        TOTAL   234971   223616     1584        0   130576   103474    27101
+               TOTAL:   234971       TOTAL SWAP PSS:        0
+        TOTAL   229615   218180     1656        0   130506   104285    26220
+               TOTAL:   229615       TOTAL SWAP PSS:        0
+        TOTAL   210883   199396     1676        0   130691   104340    26350
+               TOTAL:   210883       TOTAL SWAP PSS:        0
+        TOTAL   217051   205564     1676        0   132562   105303    27257
+               TOTAL:   217051       TOTAL SWAP PSS:        0
+        TOTAL   203648   192156     1680        0   130244   104270    25973
+               TOTAL:   203648       TOTAL SWAP PSS:        0
+        TOTAL   216967   205496     1668        0   130186   104240    25945
+               TOTAL:   216967       TOTAL SWAP PSS:        0
+        TOTAL   214570   203472     1608        0   130182   104224    25957
+               TOTAL:   214570       TOTAL SWAP PSS:        0
+        TOTAL   214311   203324     1512        0   130182   104150    26031
+               TOTAL:   214311       TOTAL SWAP PSS:        0
+        TOTAL   202887   191900     1512        0   130182   104068    26113
+               TOTAL:   202887       TOTAL SWAP PSS:        0
+        TOTAL   202883   191896     1512        0   130182   104063    26118
+               TOTAL:   202883       TOTAL SWAP PSS:        0
+        TOTAL   202891   191904     1512        0   130182   104064    26117
+               TOTAL:   202891       TOTAL SWAP PSS:        0
+        TOTAL   216299   205312     1512        0   130182   104065    26116
+               TOTAL:   216299       TOTAL SWAP PSS:        0
+        TOTAL   202887   191900     1512        0   130214   104081    26132
+               TOTAL:   202887       TOTAL SWAP PSS:        0
+        TOTAL   202891   191904     1512        0   130182   104065    26116
+               TOTAL:   202891       TOTAL SWAP PSS:        0
+        TOTAL   202887   191900     1512        0   130182   104064    26117
+               TOTAL:   202887       TOTAL SWAP PSS:        0
+        TOTAL   202887   191900     1512        0   130180   104062    26117
+               TOTAL:   202887       TOTAL SWAP PSS:        0
+        TOTAL   212323   201336     1512        0   130180   104056    26123
+               TOTAL:   212323       TOTAL SWAP PSS:        0
+        TOTAL   202888   191892     1520        0   130180   104055    26124
+               TOTAL:   202888       TOTAL SWAP PSS:        0
+        TOTAL   202883   191888     1520        0   130180   104056    26123
+               TOTAL:   202883       TOTAL SWAP PSS:        0
+        TOTAL   216271   205276     1520        0   130180   104056    26123
+               TOTAL:   216271       TOTAL SWAP PSS:        0
+        TOTAL   202896   191900     1520        0   130180   104056    26123
+               TOTAL:   202896       TOTAL SWAP PSS:        0
+        TOTAL   202883   191888     1520        0   130180   104056    26123
+               TOTAL:   202883       TOTAL SWAP PSS:        0
+        TOTAL   216287   205292     1520        0   130180   104056    26123
+               TOTAL:   216287       TOTAL SWAP PSS:        0
+        TOTAL   214829   203832     1520        0   130180   104056    26123
+               TOTAL:   214829       TOTAL SWAP PSS:        0
+        TOTAL   202883   191888     1520        0   130180   104055    26124
+               TOTAL:   202883       TOTAL SWAP PSS:        0
+        TOTAL   214447   203452     1520        0   130180   104055    26124
+               TOTAL:   214447       TOTAL SWAP PSS:        0
+        TOTAL   202884   191888     1520        0   130180   104058    26121
+               TOTAL:   202884       TOTAL SWAP PSS:        0
+        TOTAL   202879   191884     1520        0   130180   104058    26121
+               TOTAL:   202879       TOTAL SWAP PSS:        0
+        TOTAL   202875   191880     1520        0   130180   104058    26121
+               TOTAL:   202875       TOTAL SWAP PSS:        0
+        TOTAL   212803   201808     1520        0   130179   104058    26120
+               TOTAL:   212803       TOTAL SWAP PSS:        0
+        TOTAL   213535   202540     1520        0   130179   104058    26120
+               TOTAL:   213535       TOTAL SWAP PSS:        0
+        TOTAL   202884   191884     1520        0   130179   104058    26120
+               TOTAL:   202884       TOTAL SWAP PSS:        0
+        TOTAL   215320   204320     1520        0   130179   104056    26122
+               TOTAL:   215320       TOTAL SWAP PSS:        0
+        TOTAL   214821   203820     1520        0   130179   104057    26121
+               TOTAL:   214821       TOTAL SWAP PSS:        0
+        TOTAL   202900   191900     1520        0   130179   104057    26121
+               TOTAL:   202900       TOTAL SWAP PSS:        0
+        TOTAL   202892   191892     1520        0   130179   104057    26121
+               TOTAL:   202892       TOTAL SWAP PSS:        0
+        TOTAL   202896   191896     1520        0   130179   104056    26122
+               TOTAL:   202896       TOTAL SWAP PSS:        0
+        TOTAL   216305   205304     1520        0   130179   104052    26126
+               TOTAL:   216305       TOTAL SWAP PSS:        0
+        TOTAL   216268   205268     1520        0   130210   104049    26160
+               TOTAL:   216268       TOTAL SWAP PSS:        0
+        TOTAL   202816   191816     1520        0   130211   104016    26194
+               TOTAL:   202816       TOTAL SWAP PSS:        0
+        TOTAL   202813   191812     1520        0   130178   103936    26241
+               TOTAL:   202813       TOTAL SWAP PSS:        0
+        TOTAL   202792   191792     1520        0   130178   103935    26242
+               TOTAL:   202792       TOTAL SWAP PSS:        0
+        TOTAL   202962   191972     1520        0   130178   103936    26241
+               TOTAL:   202962       TOTAL SWAP PSS:        0
+        TOTAL   202954   191952     1520        0   130179   103936    26242
+               TOTAL:   202954       TOTAL SWAP PSS:        0
+        TOTAL   202900   191900     1520        0   130178   103934    26243
+               TOTAL:   202900       TOTAL SWAP PSS:        0
+        TOTAL   202892   191892     1520        0   130178   103935    26242
+               TOTAL:   202892       TOTAL SWAP PSS:        0
+        TOTAL   202870   191868     1520        0   130178   103934    26243
+               TOTAL:   202870       TOTAL SWAP PSS:        0
+        TOTAL   202873   191872     1520        0   130178   103933    26244
+               TOTAL:   202873       TOTAL SWAP PSS:        0
+        TOTAL   202860   191860     1520        0   130178   103934    26243
+               TOTAL:   202860       TOTAL SWAP PSS:        0
+        TOTAL   202865   191864     1520        0   130178   103935    26242
+               TOTAL:   202865       TOTAL SWAP PSS:        0
+        TOTAL   202864   191864     1520        0   130178   103935    26242
+               TOTAL:   202864       TOTAL SWAP PSS:        0
+        TOTAL   202892   191892     1520        0   130178   103938    26239
+               TOTAL:   202892       TOTAL SWAP PSS:        0
+        TOTAL   202825   191872     1464        0   130178   103938    26239
+               TOTAL:   202825       TOTAL SWAP PSS:        0
+        TOTAL   202765   191868     1460        0   130178   103939    26238
+               TOTAL:   202765       TOTAL SWAP PSS:        0
+        TOTAL   202699   191860     1444        0   130178   103939    26238
+               TOTAL:   202699       TOTAL SWAP PSS:        0
+        TOTAL   202569   191876     1444        0   130178   103937    26240
+               TOTAL:   202569       TOTAL SWAP PSS:        0
+        TOTAL   202565   191872     1444        0   130178   103937    26240
+               TOTAL:   202565       TOTAL SWAP PSS:        0
+        TOTAL   202682   192012     1444        0   130183   103941    26241
+               TOTAL:   202682       TOTAL SWAP PSS:        0
+        TOTAL   202596   192016     1408        0   130180   103939    26240
+               TOTAL:   202596       TOTAL SWAP PSS:        0
+        TOTAL   202600   192020     1408        0   130180   103957    26222
+               TOTAL:   202600       TOTAL SWAP PSS:        0
+        TOTAL   202639   192052     1416        0   130180   103976    26203
+               TOTAL:   202639       TOTAL SWAP PSS:        0
+        TOTAL   202624   192052     1416        0   130180   103977    26202
+               TOTAL:   202624       TOTAL SWAP PSS:        0
+        TOTAL   202601   192040     1408        0   130180   103977    26202
+               TOTAL:   202601       TOTAL SWAP PSS:        0
+        TOTAL   202473   191912     1408        0   130180   103973    26206
+               TOTAL:   202473       TOTAL SWAP PSS:        0
+        TOTAL   202475   191912     1408        0   130180   103972    26207
+               TOTAL:   202475       TOTAL SWAP PSS:        0
+        TOTAL   202473   191912     1408        0   130180   103973    26206
+               TOTAL:   202473       TOTAL SWAP PSS:        0
+        TOTAL   202477   191916     1408        0   130180   103971    26208
+               TOTAL:   202477       TOTAL SWAP PSS:        0
+        TOTAL   202475   191912     1408        0   130180   103969    26210
+               TOTAL:   202475       TOTAL SWAP PSS:        0
+        TOTAL   202473   191912     1408        0   130180   103982    26197
+               TOTAL:   202473       TOTAL SWAP PSS:        0
+        TOTAL   202474   191912     1408        0   130180   103968    26211
+               TOTAL:   202474       TOTAL SWAP PSS:        0
+        TOTAL   202474   191912     1408        0   130180   103966    26213
+               TOTAL:   202474       TOTAL SWAP PSS:        0
+        TOTAL   202749   192188     1408        0   130180   103965    26214
+               TOTAL:   202749       TOTAL SWAP PSS:        0
+        TOTAL   202762   192200     1408        0   130180   103963    26216
+               TOTAL:   202762       TOTAL SWAP PSS:        0
+        TOTAL   202748   192196     1400        0   130180   103964    26215
+               TOTAL:   202748       TOTAL SWAP PSS:        0
+        TOTAL   202745   192196     1400        0   130180   103964    26215
+               TOTAL:   202745       TOTAL SWAP PSS:        0
+        TOTAL   202744   192196     1400        0   130180   103959    26220
+               TOTAL:   202744       TOTAL SWAP PSS:        0
+        TOTAL   202734   192184     1400        0   130180   103964    26215
+               TOTAL:   202734       TOTAL SWAP PSS:        0
+        TOTAL   202768   192220     1400        0   130180   103966    26213
+               TOTAL:   202768       TOTAL SWAP PSS:        0
+        TOTAL   202748   192200     1400        0   130180   103938    26241
+               TOTAL:   202748       TOTAL SWAP PSS:        0
+        TOTAL   202738   192188     1400        0   130180   103935    26244
+               TOTAL:   202738       TOTAL SWAP PSS:        0
+        TOTAL   202724   192188     1400        0   130180   103934    26245
+               TOTAL:   202724       TOTAL SWAP PSS:        0
+        TOTAL   202725   192188     1400        0   130180   103936    26243
+               TOTAL:   202725       TOTAL SWAP PSS:        0
+        TOTAL   202730   192192     1400        0   130180   103936    26243
+               TOTAL:   202730       TOTAL SWAP PSS:        0
+        TOTAL   203138   192584     1404        0   136156   108040    28115
+               TOTAL:   203138       TOTAL SWAP PSS:        0
+        TOTAL   238043   227304     1552        0   133471   108753    24717
+               TOTAL:   238043       TOTAL SWAP PSS:        0
+        TOTAL   207637   196824     1592        0   133321   108129    25191
+               TOTAL:   207637       TOTAL SWAP PSS:        0
+        TOTAL   208812   197984     1604        0   133980   108422    25557
+               TOTAL:   208812       TOTAL SWAP PSS:        0
+        TOTAL   214787   203956     1608        0   133730   108532    25197
+               TOTAL:   214787       TOTAL SWAP PSS:        0
+        TOTAL   213640   202808     1608        0   133369   108294    25074
+               TOTAL:   213640       TOTAL SWAP PSS:        0
+        TOTAL   213525   202692     1608        0   133433   108354    25078
+               TOTAL:   213525       TOTAL SWAP PSS:        0
+        TOTAL   213216   202384     1608        0   133369   108371    24997
+               TOTAL:   213216       TOTAL SWAP PSS:        0
+        TOTAL   213204   202372     1608        0   133367   108367    24999
+               TOTAL:   213204       TOTAL SWAP PSS:        0
+        TOTAL   213271   202404     1640        0   133433   108297    25135
+               TOTAL:   213271       TOTAL SWAP PSS:        0
+        TOTAL   213354   202488     1640        0   133411   108646    24764
+               TOTAL:   213354       TOTAL SWAP PSS:        0
+        TOTAL   213374   202508     1640        0   133383   108628    24754
+               TOTAL:   213374       TOTAL SWAP PSS:        0
+        TOTAL   213391   202524     1640        0   133380   108606    24773
+               TOTAL:   213391       TOTAL SWAP PSS:        0
+        TOTAL   213363   202496     1640        0   133412   108568    24843
+               TOTAL:   213363       TOTAL SWAP PSS:        0
+        TOTAL   213314   202448     1640        0   133382   108453    24928
+               TOTAL:   213314       TOTAL SWAP PSS:        0
+        TOTAL   213259   202392     1640        0   133445   108536    24908
+               TOTAL:   213259       TOTAL SWAP PSS:        0
+        TOTAL   213307   202440     1640        0   133416   108517    24898
+               TOTAL:   213307       TOTAL SWAP PSS:        0
+        TOTAL   213546   202680     1640        0   133389   108662    24726
+               TOTAL:   213546       TOTAL SWAP PSS:        0
+        TOTAL   213199   202332     1640        0   133414   108608    24805
+               TOTAL:   213199       TOTAL SWAP PSS:        0
+        TOTAL   213339   202408     1672        0   133396   108656    24739
+               TOTAL:   213339       TOTAL SWAP PSS:        0
+        TOTAL   213339   202408     1672        0   133395   108608    24786
+               TOTAL:   213339       TOTAL SWAP PSS:        0
+        TOTAL   213311   202380     1672        0   133595   108705    24889
+               TOTAL:   213311       TOTAL SWAP PSS:        0
+        TOTAL   213306   202372     1672        0   133384   108480    24903
+               TOTAL:   213306       TOTAL SWAP PSS:        0
+        TOTAL   213241   202300     1680        0   133373   108446    24926
+               TOTAL:   213241       TOTAL SWAP PSS:        0
+        TOTAL   213225   202284     1680        0   133373   108442    24930
+               TOTAL:   213225       TOTAL SWAP PSS:        0
+        TOTAL   213233   202292     1680        0   133597   108554    25042
+               TOTAL:   213233       TOTAL SWAP PSS:        0
+        TOTAL   213225   202284     1680        0   133372   108444    24927
+               TOTAL:   213225       TOTAL SWAP PSS:        0
+        TOTAL   213114   202172     1680        0   133361   108436    24924
+               TOTAL:   213114       TOTAL SWAP PSS:        0
+        TOTAL   213097   202156     1680        0   133361   108436    24924
+               TOTAL:   213097       TOTAL SWAP PSS:        0
+        TOTAL   213162   202220     1680        0   133361   108437    24923
+               TOTAL:   213162       TOTAL SWAP PSS:        0
+        TOTAL   213101   202160     1680        0   133361   108434    24926
+               TOTAL:   213101       TOTAL SWAP PSS:        0
+        TOTAL   213102   202160     1680        0   133361   108434    24926
+               TOTAL:   213102       TOTAL SWAP PSS:        0
+        TOTAL   213103   202160     1680        0   133361   108431    24929
+               TOTAL:   213103       TOTAL SWAP PSS:        0
+        TOTAL   213101   202160     1680        0   133361   108430    24930
+               TOTAL:   213101       TOTAL SWAP PSS:        0
+        TOTAL   213222   202276     1680        0   133360   108425    24934
+               TOTAL:   213222       TOTAL SWAP PSS:        0
+        TOTAL   213116   202168     1680        0   133340   108409    24930
+               TOTAL:   213116       TOTAL SWAP PSS:        0
+        TOTAL   213094   202148     1680        0   133337   108396    24940
+               TOTAL:   213094       TOTAL SWAP PSS:        0
+        TOTAL   213094   202148     1680        0   133337   108395    24941
+               TOTAL:   213094       TOTAL SWAP PSS:        0
+        TOTAL   213092   202144     1680        0   133337   108388    24948
+               TOTAL:   213092       TOTAL SWAP PSS:        0
+        TOTAL   213082   202136     1680        0   133337   108376    24960
+               TOTAL:   213082       TOTAL SWAP PSS:        0
+        TOTAL   213066   202120     1680        0   133337   108356    24980
+               TOTAL:   213066       TOTAL SWAP PSS:        0
+        TOTAL   213076   202128     1680        0   133338   108337    25000
+               TOTAL:   213076       TOTAL SWAP PSS:        0
+        TOTAL   213094   202148     1680        0   133337   108340    24996
+               TOTAL:   213094       TOTAL SWAP PSS:        0
+        TOTAL   225871   214940     1680        0   133337   108340    24996
+               TOTAL:   225871       TOTAL SWAP PSS:        0
+        TOTAL   212907   201956     1680        0   133337   108291    25045
+               TOTAL:   212907       TOTAL SWAP PSS:        0
+        TOTAL   212907   201956     1680        0   133337   108289    25047
+               TOTAL:   212907       TOTAL SWAP PSS:        0
+        TOTAL   224399   213448     1680        0   133337   108288    25048
+               TOTAL:   224399       TOTAL SWAP PSS:        0
+        TOTAL   212971   202020     1680        0   133337   108273    25063
+               TOTAL:   212971       TOTAL SWAP PSS:        0
+        TOTAL   226127   215176     1680        0   133337   108273    25063
+               TOTAL:   226127       TOTAL SWAP PSS:        0
+        TOTAL   226847   215896     1680        0   133337   108273    25063
+               TOTAL:   226847       TOTAL SWAP PSS:        0
+        TOTAL   212895   201944     1680        0   133337   108272    25064
+               TOTAL:   212895       TOTAL SWAP PSS:        0
+        TOTAL   226095   215144     1680        0   133337   108271    25065
+               TOTAL:   226095       TOTAL SWAP PSS:        0
+        TOTAL   226683   215732     1680        0   133337   108271    25065
+               TOTAL:   226683       TOTAL SWAP PSS:        0
+        TOTAL   212947   201996     1680        0   133337   108286    25050
+               TOTAL:   212947       TOTAL SWAP PSS:        0
+        TOTAL   226603   215652     1680        0   133337   108270    25066
+               TOTAL:   226603       TOTAL SWAP PSS:        0
+        TOTAL   212903   201952     1680        0   133337   108269    25067
+               TOTAL:   212903       TOTAL SWAP PSS:        0
+        TOTAL   226375   215424     1680        0   133337   108268    25068
+               TOTAL:   226375       TOTAL SWAP PSS:        0
+        TOTAL   226319   215368     1680        0   133945   108591    25353
+               TOTAL:   226319       TOTAL SWAP PSS:        0
+        TOTAL   223087   212136     1680        0   135071   109865    25205
+               TOTAL:   223087       TOTAL SWAP PSS:        0
+        TOTAL   247991   236808     1804        0   136116   111234    24881
+               TOTAL:   247991       TOTAL SWAP PSS:        0
+        TOTAL   252679   241496     1804        0   136053   111204    24848
+               TOTAL:   252679       TOTAL SWAP PSS:        0
+        TOTAL   222580   211392     1808        0   136054   111040    25013
+               TOTAL:   222580       TOTAL SWAP PSS:        0
+        TOTAL   208976   197788     1808        0   136054   111040    25013
+               TOTAL:   208976       TOTAL SWAP PSS:        0
+        TOTAL   222440   211252     1808        0   136054   111040    25013
+               TOTAL:   222440       TOTAL SWAP PSS:        0
+        TOTAL   209000   197812     1808        0   136054   111042    25011
+               TOTAL:   209000       TOTAL SWAP PSS:        0
+        TOTAL   219544   208356     1808        0   136054   111038    25015
+               TOTAL:   219544       TOTAL SWAP PSS:        0
+        TOTAL   220328   209140     1808        0   136054   111043    25010
+               TOTAL:   220328       TOTAL SWAP PSS:        0
+        TOTAL   217488   206300     1808        0   136054   111037    25016
+               TOTAL:   217488       TOTAL SWAP PSS:        0
+        TOTAL   206072   194884     1808        0   136054   111037    25016
+               TOTAL:   206072       TOTAL SWAP PSS:        0
+        TOTAL   220332   209144     1808        0   136054   111037    25016
+               TOTAL:   220332       TOTAL SWAP PSS:        0
+        TOTAL   219792   208604     1808        0   136054   111031    25022
+               TOTAL:   219792       TOTAL SWAP PSS:        0
+        TOTAL   219016   207828     1808        0   136054   111021    25032
+               TOTAL:   219016       TOTAL SWAP PSS:        0
+        TOTAL   219872   208684     1808        0   136054   111021    25032
+               TOTAL:   219872       TOTAL SWAP PSS:        0
+        TOTAL   220312   209124     1808        0   136054   111021    25032
+               TOTAL:   220312       TOTAL SWAP PSS:        0
+        TOTAL   206064   194876     1808        0   136054   111020    25033
+               TOTAL:   206064       TOTAL SWAP PSS:        0
+        TOTAL   220332   209144     1808        0   136117   111023    25093
+               TOTAL:   220332       TOTAL SWAP PSS:        0
+        TOTAL   220380   209192     1808        0   136251   111215    25035
+               TOTAL:   220380       TOTAL SWAP PSS:        0
+        TOTAL   218120   206932     1808        0   136084   111001    25082
+               TOTAL:   218120       TOTAL SWAP PSS:        0
+        TOTAL   206068   194880     1808        0   136080   110997    25082
+               TOTAL:   206068       TOTAL SWAP PSS:        0
+        TOTAL   206392   195204     1808        0   136088   111038    25049
+               TOTAL:   206392       TOTAL SWAP PSS:        0
+        TOTAL   216740   205552     1808        0   136081   111020    25060
+               TOTAL:   216740       TOTAL SWAP PSS:        0
+        TOTAL   215633   204444     1808        0   136095   110997    25097
+               TOTAL:   215633       TOTAL SWAP PSS:        0
+        TOTAL   218008   206820     1808        0   136127   111013    25113
+               TOTAL:   218008       TOTAL SWAP PSS:        0
+        TOTAL   220340   209152     1808        0   136057   110879    25177
+               TOTAL:   220340       TOTAL SWAP PSS:        0
+        TOTAL   219528   208340     1808        0   136047   110874    25172
+               TOTAL:   219528       TOTAL SWAP PSS:        0
+        TOTAL   206036   194848     1808        0   136047   110873    25173
+               TOTAL:   206036       TOTAL SWAP PSS:        0
+        TOTAL   220304   209116     1808        0   136047   110876    25170
+               TOTAL:   220304       TOTAL SWAP PSS:        0
+        TOTAL   206044   194856     1808        0   136047   110875    25171
+               TOTAL:   206044       TOTAL SWAP PSS:        0
+        TOTAL   205956   194768     1808        0   136047   110876    25170
+               TOTAL:   205956       TOTAL SWAP PSS:        0
+        TOTAL   205956   194768     1808        0   136047   110875    25171
+               TOTAL:   205956       TOTAL SWAP PSS:        0
+        TOTAL   205956   194768     1808        0   136047   110876    25170
+               TOTAL:   205956       TOTAL SWAP PSS:        0
+        TOTAL   219672   208484     1808        0   136047   110875    25171
+               TOTAL:   219672       TOTAL SWAP PSS:        0
+        TOTAL   205968   194780     1808        0   136045   110874    25170
+               TOTAL:   205968       TOTAL SWAP PSS:        0
+        TOTAL   218660   207472     1808        0   136077   110916    25160
+               TOTAL:   218660       TOTAL SWAP PSS:        0
+        TOTAL   218784   207596     1808        0   136045   110933    25111
+               TOTAL:   218784       TOTAL SWAP PSS:        0
+        TOTAL   205980   194792     1808        0   136045   110933    25111
+               TOTAL:   205980       TOTAL SWAP PSS:        0
+        TOTAL   220225   209036     1808        0   136045   110933    25111
+               TOTAL:   220225       TOTAL SWAP PSS:        0
+        TOTAL   218936   207748     1808        0   136045   110933    25111
+               TOTAL:   218936       TOTAL SWAP PSS:        0
+        TOTAL   218944   207756     1808        0   136045   110933    25111
+               TOTAL:   218944       TOTAL SWAP PSS:        0
+        TOTAL   206127   194948     1808        0   136045   110946    25098
+               TOTAL:   206127       TOTAL SWAP PSS:        0
+        TOTAL   206119   194940     1808        0   136045   110930    25114
+               TOTAL:   206119       TOTAL SWAP PSS:        0
+        TOTAL   206160   194972     1808        0   136078   110966    25111
+               TOTAL:   206160       TOTAL SWAP PSS:        0
+        TOTAL   236531   225308     1840        0   136507   111647    24859
+               TOTAL:   236531       TOTAL SWAP PSS:        0
+        TOTAL   236291   225068     1840        0   136110   111332    24777
+               TOTAL:   236291       TOTAL SWAP PSS:        0
+        TOTAL   217138   205916     1840        0   136077   111269    24807
+               TOTAL:   217138       TOTAL SWAP PSS:        0
+        TOTAL   217110   205888     1840        0   136077   111270    24806
+               TOTAL:   217110       TOTAL SWAP PSS:        0
+        TOTAL   217316   206092     1840        0   136108   111217    24890
+               TOTAL:   217316       TOTAL SWAP PSS:        0
+        TOTAL   217330   206108     1840        0   136076   111258    24817
+               TOTAL:   217330       TOTAL SWAP PSS:        0
+        TOTAL   217210   205988     1840        0   136076   111251    24824
+               TOTAL:   217210       TOTAL SWAP PSS:        0
+        TOTAL   217283   206060     1840        0   136076   111215    24860
+               TOTAL:   217283       TOTAL SWAP PSS:        0
+        TOTAL   217231   206008     1840        0   136076   111216    24859
+               TOTAL:   217231       TOTAL SWAP PSS:        0
+        TOTAL   217274   206052     1840        0   136076   111215    24860
+               TOTAL:   217274       TOTAL SWAP PSS:        0
+        TOTAL   217290   206068     1840        0   136077   111212    24864
+               TOTAL:   217290       TOTAL SWAP PSS:        0
+        TOTAL   217230   206008     1840        0   136140   111237    24902
+               TOTAL:   217230       TOTAL SWAP PSS:        0
+        TOTAL   217262   206036     1840        0   136162   111254    24907
+               TOTAL:   217262       TOTAL SWAP PSS:        0
+        TOTAL   217240   206024     1824        0   136204   111407    24796
+               TOTAL:   217240       TOTAL SWAP PSS:        0
+        TOTAL   217367   206152     1824        0   136095   111208    24886
+               TOTAL:   217367       TOTAL SWAP PSS:        0
+        TOTAL   217276   206060     1824        0   136093   111211    24881
+               TOTAL:   217276       TOTAL SWAP PSS:        0
+        TOTAL   217239   206024     1824        0   136120   111171    24948
+               TOTAL:   217239       TOTAL SWAP PSS:        0
+        TOTAL   217247   206032     1824        0   136254   111237    25016
+               TOTAL:   217247       TOTAL SWAP PSS:        0
+        TOTAL   217220   206004     1824        0   136073   111062    25010
+               TOTAL:   217220       TOTAL SWAP PSS:        0
+        TOTAL   217079   205864     1824        0   136073   111063    25009
+               TOTAL:   217079       TOTAL SWAP PSS:        0
+        TOTAL   217074   205860     1824        0   136073   111056    25016
+               TOTAL:   217074       TOTAL SWAP PSS:        0
+        TOTAL   217000   205784     1824        0   136067   110748    25318
+               TOTAL:   217000       TOTAL SWAP PSS:        0
+        TOTAL   217131   205916     1824        0   136065   110122    25942
+               TOTAL:   217131       TOTAL SWAP PSS:        0
+        TOTAL   217122   205908     1824        0   136065   110122    25942
+               TOTAL:   217122       TOTAL SWAP PSS:        0
+        TOTAL   217123   205908     1824        0   136065   110122    25942
+               TOTAL:   217123       TOTAL SWAP PSS:        0
+        TOTAL   217391   206176     1824        0   136249   110213    26035
+               TOTAL:   217391       TOTAL SWAP PSS:        0
+        TOTAL   217358   206144     1824        0   136056   110130    25925
+               TOTAL:   217358       TOTAL SWAP PSS:        0
+        TOTAL   217322   206108     1824        0   136083   110145    25937
+               TOTAL:   217322       TOTAL SWAP PSS:        0
+        TOTAL   217615   206160     1928        0   136115   110239    25875
+               TOTAL:   217615       TOTAL SWAP PSS:        0
+        TOTAL   217602   206148     1928        0   136083   110233    25849
+               TOTAL:   217602       TOTAL SWAP PSS:        0
+        TOTAL   217610   206156     1928        0   136083   110249    25833
+               TOTAL:   217610       TOTAL SWAP PSS:        0
+        TOTAL   217687   206232     1928        0   136083   110252    25830
+               TOTAL:   217687       TOTAL SWAP PSS:        0
+        TOTAL   217522   206068     1928        0   136051   110235    25815
+               TOTAL:   217522       TOTAL SWAP PSS:        0
+        TOTAL   217499   206044     1928        0   136051   110232    25818
+               TOTAL:   217499       TOTAL SWAP PSS:        0
+        TOTAL   213926   202460     1928        0   136036   110115    25920
+               TOTAL:   213926       TOTAL SWAP PSS:        0
+        TOTAL   213766   202300     1928        0   136016   110166    25849
+               TOTAL:   213766       TOTAL SWAP PSS:        0
+        TOTAL   213742   202276     1928        0   136015   110156    25858
+               TOTAL:   213742       TOTAL SWAP PSS:        0
+        TOTAL   213537   202072     1928        0   136015   110138    25876
+               TOTAL:   213537       TOTAL SWAP PSS:        0
+        TOTAL   213534   202068     1928        0   136015   110107    25907
+               TOTAL:   213534       TOTAL SWAP PSS:        0
+        TOTAL   213542   202076     1928        0   136015   110106    25908
+               TOTAL:   213542       TOTAL SWAP PSS:        0
+        TOTAL   213538   202072     1928        0   136015   110106    25908
+               TOTAL:   213538       TOTAL SWAP PSS:        0
+        TOTAL   213538   202072     1928        0   136015   110104    25910
+               TOTAL:   213538       TOTAL SWAP PSS:        0
+        TOTAL   213534   202068     1928        0   136015   110093    25921
+               TOTAL:   213534       TOTAL SWAP PSS:        0
+        TOTAL   213537   202072     1928        0   136015   110072    25942
+               TOTAL:   213537       TOTAL SWAP PSS:        0
+        TOTAL   213534   202068     1928        0   136015   110022    25992
+               TOTAL:   213534       TOTAL SWAP PSS:        0
+        TOTAL   213538   202072     1928        0   136015   110008    26006
+               TOTAL:   213538       TOTAL SWAP PSS:        0
+        TOTAL   213534   202068     1928        0   136015   110007    26007
+               TOTAL:   213534       TOTAL SWAP PSS:        0
+        TOTAL   213534   202068     1928        0   136015   110007    26007
+               TOTAL:   213534       TOTAL SWAP PSS:        0
+        TOTAL   213538   202072     1928        0   136015   110004    26010
+               TOTAL:   213538       TOTAL SWAP PSS:        0
+        TOTAL   213598   202132     1928        0   136015   110005    26009
+               TOTAL:   213598       TOTAL SWAP PSS:        0
+        TOTAL   213585   202120     1928        0   136015   109983    26031
+               TOTAL:   213585       TOTAL SWAP PSS:        0
+        TOTAL   213529   202064     1928        0   136015   109982    26032
+               TOTAL:   213529       TOTAL SWAP PSS:        0
+        TOTAL   213521   202056     1928        0   136015   109978    26036
+               TOTAL:   213521       TOTAL SWAP PSS:        0
+        TOTAL   213530   202064     1928        0   136015   109975    26039
+               TOTAL:   213530       TOTAL SWAP PSS:        0
+        TOTAL   213522   202056     1928        0   136015   109967    26047
+               TOTAL:   213522       TOTAL SWAP PSS:        0
+        TOTAL   213526   202060     1928        0   136015   109954    26060
+               TOTAL:   213526       TOTAL SWAP PSS:        0
+        TOTAL   213522   202056     1928        0   136015   109926    26088
+               TOTAL:   213522       TOTAL SWAP PSS:        0
+        TOTAL   213518   202052     1928        0   136015   109909    26105
+               TOTAL:   213518       TOTAL SWAP PSS:        0
+        TOTAL   213505   202040     1928        0   136015   109866    26148
+               TOTAL:   213505       TOTAL SWAP PSS:        0
+        TOTAL   213498   202032     1928        0   136015   109819    26195
+               TOTAL:   213498       TOTAL SWAP PSS:        0
+        TOTAL   213494   202028     1928        0   136015   109819    26195
+               TOTAL:   213494       TOTAL SWAP PSS:        0
+        TOTAL   213557   202092     1928        0   136015   109820    26194
+               TOTAL:   213557       TOTAL SWAP PSS:        0
+        TOTAL   213558   202092     1928        0   136015   109819    26195
+               TOTAL:   213558       TOTAL SWAP PSS:        0
+        TOTAL   213498   202032     1928        0   136015   109819    26195
+               TOTAL:   213498       TOTAL SWAP PSS:        0
+        TOTAL   213498   202032     1928        0   136015   109818    26196
+               TOTAL:   213498       TOTAL SWAP PSS:        0
+        TOTAL   213501   202036     1928        0   136015   109819    26195
+               TOTAL:   213501       TOTAL SWAP PSS:        0
+        TOTAL   213490   202024     1928        0   136015   109818    26196
+               TOTAL:   213490       TOTAL SWAP PSS:        0
+        TOTAL   213437   201972     1928        0   136015   109818    26196
+               TOTAL:   213437       TOTAL SWAP PSS:        0
+        TOTAL   213425   201960     1928        0   136015   109815    26199
+               TOTAL:   213425       TOTAL SWAP PSS:        0
+        TOTAL   213429   201964     1928        0   136015   109818    26196
+               TOTAL:   213429       TOTAL SWAP PSS:        0
+        TOTAL   213422   201956     1928        0   136015   109817    26197
+               TOTAL:   213422       TOTAL SWAP PSS:        0
+        TOTAL   213429   201964     1928        0   136015   109813    26201
+               TOTAL:   213429       TOTAL SWAP PSS:        0
+        TOTAL   213489   202024     1928        0   136015   109810    26204
+               TOTAL:   213489       TOTAL SWAP PSS:        0
+        TOTAL   213442   201976     1928        0   136015   109807    26207
+               TOTAL:   213442       TOTAL SWAP PSS:        0
+        TOTAL   213394   201928     1928        0   136015   109807    26207
+               TOTAL:   213394       TOTAL SWAP PSS:        0
+        TOTAL   213401   201936     1928        0   136015   109806    26208
+               TOTAL:   213401       TOTAL SWAP PSS:        0
+        TOTAL   213462   201996     1928        0   136020   109808    26211
+               TOTAL:   213462       TOTAL SWAP PSS:        0
+        TOTAL   213465   202000     1928        0   136017   109812    26204
+               TOTAL:   213465       TOTAL SWAP PSS:        0
+        TOTAL   213393   201928     1928        0   136017   109811    26205
+               TOTAL:   213393       TOTAL SWAP PSS:        0
+        TOTAL   213361   201936     1900        0   136017   109811    26205
+               TOTAL:   213361       TOTAL SWAP PSS:        0
+        TOTAL   213392   201992     1852        0   136017   109811    26205
+               TOTAL:   213392       TOTAL SWAP PSS:        0
+        TOTAL   213367   201968     1852        0   136017   109812    26204
+               TOTAL:   213367       TOTAL SWAP PSS:        0
+        TOTAL   213351   201952     1852        0   136018   109813    26204
+               TOTAL:   213351       TOTAL SWAP PSS:        0
+        TOTAL   213148   201772     1852        0   136017   109813    26203
+               TOTAL:   213148       TOTAL SWAP PSS:        0
+        TOTAL   213216   201840     1852        0   136017   109812    26204
+               TOTAL:   213216       TOTAL SWAP PSS:        0
+        TOTAL   225901   214540     1852        0   136017   109812    26204
+               TOTAL:   225901       TOTAL SWAP PSS:        0
+        TOTAL   213060   201772     1852        0   136017   109813    26203
+               TOTAL:   213060       TOTAL SWAP PSS:        0
+        TOTAL   227299   216012     1852        0   136048   109828    26219
+               TOTAL:   227299       TOTAL SWAP PSS:        0
+        TOTAL   226185   214904     1852        0   136017   109822    26194
+               TOTAL:   226185       TOTAL SWAP PSS:        0
+        TOTAL   227309   216028     1852        0   136017   109821    26195
+               TOTAL:   227309       TOTAL SWAP PSS:        0
+        TOTAL   213117   201836     1852        0   136017   109820    26196
+               TOTAL:   213117       TOTAL SWAP PSS:        0
+        TOTAL   213117   201836     1852        0   136017   109821    26195
+               TOTAL:   213117       TOTAL SWAP PSS:        0
+        TOTAL   213121   201840     1852        0   136017   109820    26196
+               TOTAL:   213121       TOTAL SWAP PSS:        0
+        TOTAL   213121   201840     1852        0   136017   109820    26196
+               TOTAL:   213121       TOTAL SWAP PSS:        0
+        TOTAL   213121   201840     1852        0   136017   109819    26197
+               TOTAL:   213121       TOTAL SWAP PSS:        0
+        TOTAL   225277   213996     1852        0   136561   110158    26402
+               TOTAL:   225277       TOTAL SWAP PSS:        0
+        TOTAL   224569   213280     1856        0   141037   112372    28664
+               TOTAL:   224569       TOTAL SWAP PSS:        0
+        TOTAL   256632   245260     1920        0   138759   111767    26991
+               TOTAL:   256632       TOTAL SWAP PSS:        0
+        TOTAL   243408   232032     1924        0   138105   109480    28624
+               TOTAL:   243408       TOTAL SWAP PSS:        0
+        TOTAL   213720   202344     1924        0   138390   109611    28778
+               TOTAL:   213720       TOTAL SWAP PSS:        0
+        TOTAL   224662   212096     3096        0   140960   111558    29401
+               TOTAL:   224662       TOTAL SWAP PSS:        0
+        TOTAL   214819   201632     3700        0   138184   110250    27933
+               TOTAL:   214819       TOTAL SWAP PSS:        0
+        TOTAL   214820   201632     3700        0   138184   110248    27935
+               TOTAL:   214820       TOTAL SWAP PSS:        0
+        TOTAL   227735   214548     3700        0   138217   110266    27950
+               TOTAL:   227735       TOTAL SWAP PSS:        0
+        TOTAL   228483   215296     3700        0   138218   110261    27956
+               TOTAL:   228483       TOTAL SWAP PSS:        0
+        TOTAL   214731   201544     3700        0   138185   110246    27938
+               TOTAL:   214731       TOTAL SWAP PSS:        0
+        TOTAL   214731   201544     3700        0   138185   110237    27947
+               TOTAL:   214731       TOTAL SWAP PSS:        0
+        TOTAL   229263   215860     3916        0   138258   110289    27968
+               TOTAL:   229263       TOTAL SWAP PSS:        0
+        TOTAL   228447   215044     3916        0   138202   110261    27940
+               TOTAL:   228447       TOTAL SWAP PSS:        0
+        TOTAL   229279   215876     3916        0   138202   110262    27939
+               TOTAL:   229279       TOTAL SWAP PSS:        0
+        TOTAL   214963   201560     3916        0   138202   110260    27941
+               TOTAL:   214963       TOTAL SWAP PSS:        0
+        TOTAL   214959   201556     3916        0   138202   110258    27943
+               TOTAL:   214959       TOTAL SWAP PSS:        0
+        TOTAL   229294   215892     3916        0   138202   110276    27925
+               TOTAL:   229294       TOTAL SWAP PSS:        0
+        TOTAL   228643   215288     3892        0   138234   110258    27975
+               TOTAL:   228643       TOTAL SWAP PSS:        0
+        TOTAL   221666   208312     3892        0   138201   110241    27959
+               TOTAL:   221666       TOTAL SWAP PSS:        0
+        TOTAL   227838   214484     3892        0   138237   110245    27991
+               TOTAL:   227838       TOTAL SWAP PSS:        0
+        TOTAL   228609   215244     3904        0   138270   110395    27874
+               TOTAL:   228609       TOTAL SWAP PSS:        0
+        TOTAL   222021   208656     3904        0   138245   110315    27929
+               TOTAL:   222021       TOTAL SWAP PSS:        0
+        TOTAL   215036   201672     3904        0   138204   110453    27750
+               TOTAL:   215036       TOTAL SWAP PSS:        0
+        TOTAL   215048   201684     3904        0   138204   110455    27748
+               TOTAL:   215048       TOTAL SWAP PSS:        0
+        TOTAL   214957   201592     3904        0   138198   110146    28051
+               TOTAL:   214957       TOTAL SWAP PSS:        0
+        TOTAL   229291   215932     3904        0   138391   110247    28143
+               TOTAL:   229291       TOTAL SWAP PSS:        0
+        TOTAL   228499   215140     3904        0   138232   110186    28045
+               TOTAL:   228499       TOTAL SWAP PSS:        0
+        TOTAL   214787   201428     3904        0   138232   110172    28059
+               TOTAL:   214787       TOTAL SWAP PSS:        0
+        TOTAL   214923   201564     3904        0   138259   110196    28062
+               TOTAL:   214923       TOTAL SWAP PSS:        0
+        TOTAL   228391   215032     3904        0   138585   110337    28247
+               TOTAL:   228391       TOTAL SWAP PSS:        0
+        TOTAL   227971   214612     3904        0   138578   110367    28210
+               TOTAL:   227971       TOTAL SWAP PSS:        0
+        TOTAL   228707   215348     3904        0   138401   110224    28176
+               TOTAL:   228707       TOTAL SWAP PSS:        0
+        TOTAL   214871   201512     3904        0   138204   110123    28080
+               TOTAL:   214871       TOTAL SWAP PSS:        0
+        TOTAL   229339   215976     3908        0   138229   110154    28074
+               TOTAL:   229339       TOTAL SWAP PSS:        0
+        TOTAL   227111   213760     3904        0   138236   110101    28134
+               TOTAL:   227111       TOTAL SWAP PSS:        0
+        TOTAL   228991   215640     3904        0   138553   110259    28293
+               TOTAL:   228991       TOTAL SWAP PSS:        0
+        TOTAL   229043   215692     3904        0   138202   110080    28121
+               TOTAL:   229043       TOTAL SWAP PSS:        0
+        TOTAL   228971   215620     3904        0   138201   110093    28107
+               TOTAL:   228971       TOTAL SWAP PSS:        0
+        TOTAL   220887   207536     3904        0   138234   110095    28138
+               TOTAL:   220887       TOTAL SWAP PSS:        0
+        TOTAL   228995   215644     3904        0   138201   110077    28123
+               TOTAL:   228995       TOTAL SWAP PSS:        0
+        TOTAL   220883   207532     3904        0   138201   110079    28121
+               TOTAL:   220883       TOTAL SWAP PSS:        0
+        TOTAL   226611   213260     3904        0   138590   110270    28319
+               TOTAL:   226611       TOTAL SWAP PSS:        0
+        TOTAL   215144   201804     3904        0   138602   110381    28220
+               TOTAL:   215144       TOTAL SWAP PSS:        0
+        TOTAL   215044   201708     3904        0   138228   110150    28077
+               TOTAL:   215044       TOTAL SWAP PSS:        0
+        TOTAL   214824   201488     3904        0   138202   110087    28114
+               TOTAL:   214824       TOTAL SWAP PSS:        0
+        TOTAL   214816   201480     3904        0   138202   110088    28113
+               TOTAL:   214816       TOTAL SWAP PSS:        0
+        TOTAL   214828   201500     3896        0   138203   110089    28113
+               TOTAL:   214828       TOTAL SWAP PSS:        0
+        TOTAL   214799   201472     3896        0   138202   110085    28116
+               TOTAL:   214799       TOTAL SWAP PSS:        0
+        TOTAL   214800   201472     3896        0   138234   110101    28132
+               TOTAL:   214800       TOTAL SWAP PSS:        0
+        TOTAL   214795   201468     3896        0   138202   110086    28115
+               TOTAL:   214795       TOTAL SWAP PSS:        0
+        TOTAL   214796   201468     3896        0   138202   110105    28096
+               TOTAL:   214796       TOTAL SWAP PSS:        0
+        TOTAL   214795   201468     3896        0   138202   110107    28094
+               TOTAL:   214795       TOTAL SWAP PSS:        0
+        TOTAL   214799   201472     3896        0   138202   110107    28094
+               TOTAL:   214799       TOTAL SWAP PSS:        0
+        TOTAL   214803   201476     3896        0   138202   110107    28094
+               TOTAL:   214803       TOTAL SWAP PSS:        0
+        TOTAL   214791   201468     3896        0   138202   110107    28094
+               TOTAL:   214791       TOTAL SWAP PSS:        0
+        TOTAL   214795   201472     3896        0   138202   110107    28094
+               TOTAL:   214795       TOTAL SWAP PSS:        0
+        TOTAL   214807   201484     3896        0   138202   110107    28094
+               TOTAL:   214807       TOTAL SWAP PSS:        0
+        TOTAL   214795   201472     3896        0   138202   110107    28094
+               TOTAL:   214795       TOTAL SWAP PSS:        0
+        TOTAL   214771   201448     3896        0   138202   110106    28095
+               TOTAL:   214771       TOTAL SWAP PSS:        0
+        TOTAL   214736   201412     3896        0   138202   110104    28097
+               TOTAL:   214736       TOTAL SWAP PSS:        0
+        TOTAL   214744   201420     3896        0   138202   110100    28101
+               TOTAL:   214744       TOTAL SWAP PSS:        0
+        TOTAL   215000   201676     3896        0   138201   110098    28102
+               TOTAL:   215000       TOTAL SWAP PSS:        0
+        TOTAL   215007   201684     3896        0   138201   110093    28107
+               TOTAL:   215007       TOTAL SWAP PSS:        0
+        TOTAL   214992   201668     3896        0   138201   110093    28107
+               TOTAL:   214992       TOTAL SWAP PSS:        0
+        TOTAL   214991   201668     3896        0   138201   110093    28107
+               TOTAL:   214991       TOTAL SWAP PSS:        0
+        TOTAL   214992   201668     3896        0   138201   110093    28107
+               TOTAL:   214992       TOTAL SWAP PSS:        0
+        TOTAL   214992   201668     3896        0   138201   110093    28107
+               TOTAL:   214992       TOTAL SWAP PSS:        0
+        TOTAL   214967   201644     3896        0   138201   110093    28107
+               TOTAL:   214967       TOTAL SWAP PSS:        0
+        TOTAL   214972   201648     3896        0   138201   110093    28107
+               TOTAL:   214972       TOTAL SWAP PSS:        0
+        TOTAL   214967   201644     3896        0   138201   110093    28107
+               TOTAL:   214967       TOTAL SWAP PSS:        0
+        TOTAL   214972   201648     3896        0   138201   110093    28107
+               TOTAL:   214972       TOTAL SWAP PSS:        0
+        TOTAL   214968   201644     3896        0   138201   110092    28108
+               TOTAL:   214968       TOTAL SWAP PSS:        0
+        TOTAL   214735   201412     3896        0   138201   110089    28111
+               TOTAL:   214735       TOTAL SWAP PSS:        0
+        TOTAL   214732   201408     3896        0   138201   110089    28111
+               TOTAL:   214732       TOTAL SWAP PSS:        0
+        TOTAL   214731   201408     3896        0   138201   110089    28111
+               TOTAL:   214731       TOTAL SWAP PSS:        0
+        TOTAL   214739   201416     3896        0   138201   110089    28111
+               TOTAL:   214739       TOTAL SWAP PSS:        0
+        TOTAL   214732   201408     3896        0   138233   110105    28127
+               TOTAL:   214732       TOTAL SWAP PSS:        0
+        TOTAL   214744   201420     3896        0   138201   110089    28111
+               TOTAL:   214744       TOTAL SWAP PSS:        0
+        TOTAL   214730   201408     3896        0   138201   110105    28095
+               TOTAL:   214730       TOTAL SWAP PSS:        0
+        TOTAL   214743   201420     3896        0   138200   110088    28111
+               TOTAL:   214743       TOTAL SWAP PSS:        0
+        TOTAL   214734   201412     3896        0   138199   110087    28111
+               TOTAL:   214734       TOTAL SWAP PSS:        0
+        TOTAL   214882   201560     3896        0   138204   110089    28114
+               TOTAL:   214882       TOTAL SWAP PSS:        0
+        TOTAL   214866   201544     3896        0   138200   110087    28112
+               TOTAL:   214866       TOTAL SWAP PSS:        0
+        TOTAL   214867   201544     3896        0   138200   110087    28112
+               TOTAL:   214867       TOTAL SWAP PSS:        0
+        TOTAL   214858   201536     3896        0   138200   110087    28112
+               TOTAL:   214858       TOTAL SWAP PSS:        0
+        TOTAL   214870   201548     3896        0   138200   110087    28112
+               TOTAL:   214870       TOTAL SWAP PSS:        0
+        TOTAL   214867   201544     3896        0   138200   110086    28113
+               TOTAL:   214867       TOTAL SWAP PSS:        0
+        TOTAL   214866   201544     3896        0   138232   110102    28129
+               TOTAL:   214866       TOTAL SWAP PSS:        0
+        TOTAL   214878   201556     3896        0   138201   110083    28117
+               TOTAL:   214878       TOTAL SWAP PSS:        0
+        TOTAL   214878   201556     3896        0   138200   110082    28117
+               TOTAL:   214878       TOTAL SWAP PSS:        0
+        TOTAL   214863   201540     3896        0   138200   110075    28124
+               TOTAL:   214863       TOTAL SWAP PSS:        0
+        TOTAL   214871   201548     3896        0   138200   110074    28125
+               TOTAL:   214871       TOTAL SWAP PSS:        0
+        TOTAL   214871   201548     3896        0   138200   110074    28125
+               TOTAL:   214871       TOTAL SWAP PSS:        0
+        TOTAL   214874   201552     3896        0   138201   110074    28126
+               TOTAL:   214874       TOTAL SWAP PSS:        0
+        TOTAL   214878   201556     3896        0   138200   110071    28128
+               TOTAL:   214878       TOTAL SWAP PSS:        0
+        TOTAL   214730   201408     3896        0   138200   110071    28128
+               TOTAL:   214730       TOTAL SWAP PSS:        0
+        TOTAL   214765   201444     3896        0   138202   110076    28125
+               TOTAL:   214765       TOTAL SWAP PSS:        0
+        TOTAL   214568   201248     3896        0   138200   110072    28127
+               TOTAL:   214568       TOTAL SWAP PSS:        0
+        TOTAL   214566   201256     3896        0   138200   110072    28127
+               TOTAL:   214566       TOTAL SWAP PSS:        0
+        TOTAL   228874   215564     3896        0   138200   110072    28127
+               TOTAL:   228874       TOTAL SWAP PSS:        0
+        TOTAL   225450   212140     3896        0   138200   110072    28127
+               TOTAL:   225450       TOTAL SWAP PSS:        0
+        TOTAL   214558   201248     3896        0   138200   110072    28127
+               TOTAL:   214558       TOTAL SWAP PSS:        0
+        TOTAL   214558   201248     3896        0   138200   110065    28134
+               TOTAL:   214558       TOTAL SWAP PSS:        0
+        TOTAL   227410   214100     3896        0   138200   110064    28135
+               TOTAL:   227410       TOTAL SWAP PSS:        0
+        TOTAL   214566   201256     3896        0   138201   110066    28134
+               TOTAL:   214566       TOTAL SWAP PSS:        0
+        TOTAL   214570   201260     3896        0   138199   110002    28196
+               TOTAL:   214570       TOTAL SWAP PSS:        0
+        TOTAL   214530   201220     3896        0   138199   110001    28197
+               TOTAL:   214530       TOTAL SWAP PSS:        0
+        TOTAL   228234   214924     3896        0   138199   109992    28206
+               TOTAL:   228234       TOTAL SWAP PSS:        0
+        TOTAL   214527   201216     3896        0   138199   109992    28206
+               TOTAL:   214527       TOTAL SWAP PSS:        0
+        TOTAL   214502   201192     3896        0   138199   109991    28207
+               TOTAL:   214502       TOTAL SWAP PSS:        0
+        TOTAL   223782   210472     3896        0   138199   109991    28207
+               TOTAL:   223782       TOTAL SWAP PSS:        0
+        TOTAL   228167   214860     3896        0   138152   109960    28191
+               TOTAL:   228167       TOTAL SWAP PSS:        0
+        TOTAL   214483   201184     3880        0   138152   109958    28193
+               TOTAL:   214483       TOTAL SWAP PSS:        0
+        TOTAL   229115   215820     3880        0   138286   110528    27757
+               TOTAL:   229115       TOTAL SWAP PSS:        0
+        TOTAL   214827   201532     3880        0   138214   110425    27788
+               TOTAL:   214827       TOTAL SWAP PSS:        0
+        TOTAL   230754   217448     3880        0   140419   111928    28490
+               TOTAL:   230754       TOTAL SWAP PSS:        0
+        TOTAL   242377   228116     4472        0   141665   116594    25070
+               TOTAL:   242377       TOTAL SWAP PSS:        0
+        TOTAL   227724   213464     4472        0   141513   115500    26012
+               TOTAL:   227724       TOTAL SWAP PSS:        0
+        TOTAL   227728   213468     4472        0   141511   115483    26027
+               TOTAL:   227728       TOTAL SWAP PSS:        0
+        TOTAL   242608   228348     4472        0   141507   115485    26021
+               TOTAL:   242608       TOTAL SWAP PSS:        0
+        TOTAL   242601   228340     4472        0   141507   115483    26023
+               TOTAL:   242601       TOTAL SWAP PSS:        0
+        TOTAL   240952   226692     4472        0   141635   115549    26085
+               TOTAL:   240952       TOTAL SWAP PSS:        0
+        TOTAL   242576   228316     4472        0   141515   115489    26025
+               TOTAL:   242576       TOTAL SWAP PSS:        0
+        TOTAL   235412   221152     4472        0   141515   115491    26023
+               TOTAL:   235412       TOTAL SWAP PSS:        0
+        TOTAL   227612   213352     4472        0   141515   115489    26025
+               TOTAL:   227612       TOTAL SWAP PSS:        0
+        TOTAL   227612   213352     4472        0   141547   115505    26041
+               TOTAL:   227612       TOTAL SWAP PSS:        0
+        TOTAL   239580   225320     4472        0   141872   115579    26292
+               TOTAL:   239580       TOTAL SWAP PSS:        0
+        TOTAL   241300   227040     4472        0   141549   115424    26124
+               TOTAL:   241300       TOTAL SWAP PSS:        0
+        TOTAL   241492   227232     4472        0   141516   115393    26122
+               TOTAL:   241492       TOTAL SWAP PSS:        0
+        TOTAL   226964   212704     4472        0   141515   115394    26120
+               TOTAL:   226964       TOTAL SWAP PSS:        0
+        TOTAL   226964   212704     4472        0   141547   115409    26137
+               TOTAL:   226964       TOTAL SWAP PSS:        0
+        TOTAL   242084   227824     4472        0   141505   115390    26114
+               TOTAL:   242084       TOTAL SWAP PSS:        0
+        TOTAL   242036   227776     4472        0   142179   115747    26431
+               TOTAL:   242036       TOTAL SWAP PSS:        0
+        TOTAL   247155   232760     4576        0   141741   116126    25614
+               TOTAL:   247155       TOTAL SWAP PSS:        0
+        TOTAL   232415   218020     4576        0   141729   116102    25626
+               TOTAL:   232415       TOTAL SWAP PSS:        0
+        TOTAL   247439   233044     4576        0   141759   116117    25641
+               TOTAL:   247439       TOTAL SWAP PSS:        0
+        TOTAL   245127   230732     4576        0   141827   116190    25636
+               TOTAL:   245127       TOTAL SWAP PSS:        0
+        TOTAL   248227   233832     4576        0   141739   116144    25594
+               TOTAL:   248227       TOTAL SWAP PSS:        0
+        TOTAL   235471   221076     4576        0   141731   116140    25590
+               TOTAL:   235471       TOTAL SWAP PSS:        0
+        TOTAL   243523   229128     4576        0   141740   116145    25594
+               TOTAL:   243523       TOTAL SWAP PSS:        0
+        TOTAL   247347   232952     4576        0   141740   116145    25594
+               TOTAL:   247347       TOTAL SWAP PSS:        0
+        TOTAL   233091   218696     4576        0   141739   116116    25622
+               TOTAL:   233091       TOTAL SWAP PSS:        0
+        TOTAL   248127   233732     4576        0   141738   116100    25637
+               TOTAL:   248127       TOTAL SWAP PSS:        0
+        TOTAL   244671   230276     4576        0   141738   116017    25720
+               TOTAL:   244671       TOTAL SWAP PSS:        0
+        TOTAL   232799   218404     4576        0   141738   116016    25721
+               TOTAL:   232799       TOTAL SWAP PSS:        0
+        TOTAL   232795   218400     4576        0   141738   116017    25720
+               TOTAL:   232795       TOTAL SWAP PSS:        0
+        TOTAL   232739   218344     4576        0   141738   116016    25721
+               TOTAL:   232739       TOTAL SWAP PSS:        0
+        TOTAL   247794   233404     4572        0   141738   116017    25720
+               TOTAL:   247794       TOTAL SWAP PSS:        0
+        TOTAL   246689   232328     4572        0   141746   116019    25726
+               TOTAL:   246689       TOTAL SWAP PSS:        0
+        TOTAL   246907   232584     4572        0   141738   115996    25741
+               TOTAL:   246907       TOTAL SWAP PSS:        0
+        TOTAL   232666   218344     4572        0   141738   115994    25743
+               TOTAL:   232666       TOTAL SWAP PSS:        0
+        TOTAL   232658   218336     4572        0   141738   115995    25742
+               TOTAL:   232658       TOTAL SWAP PSS:        0
+        TOTAL   247393   233072     4572        0   141738   115994    25743
+               TOTAL:   247393       TOTAL SWAP PSS:        0
+        TOTAL   232782   218488     4568        0   141738   115995    25742
+               TOTAL:   232782       TOTAL SWAP PSS:        0
+        TOTAL   232846   218524     4572        0   141739   115995    25743
+               TOTAL:   232846       TOTAL SWAP PSS:        0
+        TOTAL   232818   218496     4572        0   141738   115993    25744
+               TOTAL:   232818       TOTAL SWAP PSS:        0
+        TOTAL   232826   218504     4572        0   141738   115995    25742
+               TOTAL:   232826       TOTAL SWAP PSS:        0
+        TOTAL   232802   218480     4572        0   141738   115994    25743
+               TOTAL:   232802       TOTAL SWAP PSS:        0
+        TOTAL   232810   218488     4572        0   141738   115994    25743
+               TOTAL:   232810       TOTAL SWAP PSS:        0
+        TOTAL   232802   218480     4572        0   141738   115993    25744
+               TOTAL:   232802       TOTAL SWAP PSS:        0
+        TOTAL   232819   218496     4572        0   141738   115994    25743
+               TOTAL:   232819       TOTAL SWAP PSS:        0
+        TOTAL   232807   218488     4572        0   141738   115994    25743
+               TOTAL:   232807       TOTAL SWAP PSS:        0
+        TOTAL   232807   218488     4572        0   141738   115994    25743
+               TOTAL:   232807       TOTAL SWAP PSS:        0
+        TOTAL   232812   218492     4572        0   141738   115993    25744
+               TOTAL:   232812       TOTAL SWAP PSS:        0
+        TOTAL   232820   218500     4572        0   141738   115998    25739
+               TOTAL:   232820       TOTAL SWAP PSS:        0
+        TOTAL   232811   218492     4572        0   141738   116015    25722
+               TOTAL:   232811       TOTAL SWAP PSS:        0
+        TOTAL   232819   218500     4572        0   141738   115999    25738
+               TOTAL:   232819       TOTAL SWAP PSS:        0
+        TOTAL   235624   221304     4572        0   141770   116015    25754
+               TOTAL:   235624       TOTAL SWAP PSS:        0
+        TOTAL   235655   221336     4572        0   141738   116000    25737
+               TOTAL:   235655       TOTAL SWAP PSS:        0
+        TOTAL   235639   221320     4572        0   141738   115999    25738
+               TOTAL:   235639       TOTAL SWAP PSS:        0
+        TOTAL   235628   221308     4572        0   141738   115999    25738
+               TOTAL:   235628       TOTAL SWAP PSS:        0
+        TOTAL   235632   221312     4572        0   141738   115997    25740
+               TOTAL:   235632       TOTAL SWAP PSS:        0
+        TOTAL   235644   221324     4572        0   141738   115998    25739
+               TOTAL:   235644       TOTAL SWAP PSS:        0
+        TOTAL   235627   221308     4572        0   141738   115998    25739
+               TOTAL:   235627       TOTAL SWAP PSS:        0
+        TOTAL   235632   221312     4572        0   141738   115996    25741
+               TOTAL:   235632       TOTAL SWAP PSS:        0
+        TOTAL   235644   221324     4572        0   141738   115994    25743
+               TOTAL:   235644       TOTAL SWAP PSS:        0
+        TOTAL   235627   221308     4572        0   141738   115995    25742
+               TOTAL:   235627       TOTAL SWAP PSS:        0
+        TOTAL   235635   221316     4572        0   141738   115994    25743
+               TOTAL:   235635       TOTAL SWAP PSS:        0
+        TOTAL   235652   221332     4572        0   141738   115992    25745
+               TOTAL:   235652       TOTAL SWAP PSS:        0
+        TOTAL   235635   221316     4572        0   141802   116023    25778
+               TOTAL:   235635       TOTAL SWAP PSS:        0
+        TOTAL   235779   221460     4572        0   141743   115993    25749
+               TOTAL:   235779       TOTAL SWAP PSS:        0
+        TOTAL   235776   221456     4572        0   141739   115988    25750
+               TOTAL:   235776       TOTAL SWAP PSS:        0
+        TOTAL   235775   221456     4572        0   141835   116036    25798
+               TOTAL:   235775       TOTAL SWAP PSS:        0
+        TOTAL   235803   221484     4572        0   141740   115982    25757
+               TOTAL:   235803       TOTAL SWAP PSS:        0
+        TOTAL   235764   221444     4572        0   141739   115982    25756
+               TOTAL:   235764       TOTAL SWAP PSS:        0
+        TOTAL   235604   221284     4572        0   141739   115966    25772
+               TOTAL:   235604       TOTAL SWAP PSS:        0
+        TOTAL   235615   221296     4572        0   141739   115967    25771
+               TOTAL:   235615       TOTAL SWAP PSS:        0
+        TOTAL   235604   221284     4572        0   141739   115966    25772
+               TOTAL:   235604       TOTAL SWAP PSS:        0
+        TOTAL   235608   221288     4572        0   141739   115971    25767
+               TOTAL:   235608       TOTAL SWAP PSS:        0
+        TOTAL   235616   221296     4572        0   141739   115964    25774
+               TOTAL:   235616       TOTAL SWAP PSS:        0
+        TOTAL   235597   221292     4572        0   141739   115965    25773
+               TOTAL:   235597       TOTAL SWAP PSS:        0
+        TOTAL   235588   221292     4564        0   141739   115964    25774
+               TOTAL:   235588       TOTAL SWAP PSS:        0
+        TOTAL   235274   221288     4340        0   141739   115934    25804
+               TOTAL:   235274       TOTAL SWAP PSS:        0
+        TOTAL   235571   221584     4340        0   141739   116108    25630
+               TOTAL:   235571       TOTAL SWAP PSS:        0
+        TOTAL   235554   221568     4340        0   141739   116109    25629
+               TOTAL:   235554       TOTAL SWAP PSS:        0
+        TOTAL   235554   221568     4340        0   141739   116080    25658
+               TOTAL:   235554       TOTAL SWAP PSS:        0
+        TOTAL   235439   221452     4340        0   141739   116080    25658
+               TOTAL:   235439       TOTAL SWAP PSS:        0
+        TOTAL   235427   221440     4340        0   141739   116080    25658
+               TOTAL:   235427       TOTAL SWAP PSS:        0
+        TOTAL   235414   221428     4340        0   141739   116070    25668
+               TOTAL:   235414       TOTAL SWAP PSS:        0
+        TOTAL   235410   221424     4340        0   141739   115945    25793
+               TOTAL:   235410       TOTAL SWAP PSS:        0
+        TOTAL   235407   221420     4340        0   141739   115942    25796
+               TOTAL:   235407       TOTAL SWAP PSS:        0
+        TOTAL   235087   221100     4340        0   141738   115628    26109
+               TOTAL:   235087       TOTAL SWAP PSS:        0
+        TOTAL   235022   221036     4340        0   141737   115360    26376
+               TOTAL:   235022       TOTAL SWAP PSS:        0
+        TOTAL   234983   220996     4340        0   141736   115347    26388
+               TOTAL:   234983       TOTAL SWAP PSS:        0
+        TOTAL   234982   220996     4340        0   141736   115347    26388
+               TOTAL:   234982       TOTAL SWAP PSS:        0
+        TOTAL   234982   220996     4340        0   141736   115347    26388
+               TOTAL:   234982       TOTAL SWAP PSS:        0
+        TOTAL   234990   221004     4340        0   141736   115348    26387
+               TOTAL:   234990       TOTAL SWAP PSS:        0
+        TOTAL   234987   221000     4340        0   141736   115363    26372
+               TOTAL:   234987       TOTAL SWAP PSS:        0
+        TOTAL   234970   220984     4340        0   141736   115363    26372
+               TOTAL:   234970       TOTAL SWAP PSS:        0
+        TOTAL   234966   220980     4340        0   141736   115347    26388
+               TOTAL:   234966       TOTAL SWAP PSS:        0
+        TOTAL   234971   220984     4340        0   141736   115348    26387
+               TOTAL:   234971       TOTAL SWAP PSS:        0
+        TOTAL   234958   220972     4340        0   141736   115303    26432
+               TOTAL:   234958       TOTAL SWAP PSS:        0
+        TOTAL   234954   220968     4340        0   141736   115303    26432
+               TOTAL:   234954       TOTAL SWAP PSS:        0
+        TOTAL   234871   220884     4340        0   141730   115300    26429
+               TOTAL:   234871       TOTAL SWAP PSS:        0
+        TOTAL   234879   220892     4340        0   141730   115301    26428
+               TOTAL:   234879       TOTAL SWAP PSS:        0
+        TOTAL   234870   220884     4340        0   141730   115300    26429
+               TOTAL:   234870       TOTAL SWAP PSS:        0
+        TOTAL   234894   220908     4340        0   141731   115300    26430
+               TOTAL:   234894       TOTAL SWAP PSS:        0
+        TOTAL   234886   220900     4340        0   141730   115299    26430
+               TOTAL:   234886       TOTAL SWAP PSS:        0
+        TOTAL   234874   220888     4340        0   141730   115300    26429
+               TOTAL:   234874       TOTAL SWAP PSS:        0
+        TOTAL   234890   220904     4340        0   141797   115371    26425
+               TOTAL:   234890       TOTAL SWAP PSS:        0
+        TOTAL   234966   220980     4340        0   141796   115334    26461
+               TOTAL:   234966       TOTAL SWAP PSS:        0
+        TOTAL   234955   220968     4340        0   141796   115369    26426
+               TOTAL:   234955       TOTAL SWAP PSS:        0
+        TOTAL   234999   220948     4404        0   141732   115338    26393
+               TOTAL:   234999       TOTAL SWAP PSS:        0
+        TOTAL   234987   220936     4404        0   141763   115353    26409
+               TOTAL:   234987       TOTAL SWAP PSS:        0
+        TOTAL   234970   220920     4404        0   141854   115430    26423
+               TOTAL:   234970       TOTAL SWAP PSS:        0
+        TOTAL   235038   220988     4404        0   141733   115368    26364
+               TOTAL:   235038       TOTAL SWAP PSS:        0
+        TOTAL   234987   220936     4404        0   141733   115369    26363
+               TOTAL:   234987       TOTAL SWAP PSS:        0
+        TOTAL   234979   220928     4404        0   141797   115400    26396
+               TOTAL:   234979       TOTAL SWAP PSS:        0
+        TOTAL   235050   221000     4404        0   141738   115370    26367
+               TOTAL:   235050       TOTAL SWAP PSS:        0
+        TOTAL   235050   221000     4404        0   141924   115468    26455
+               TOTAL:   235050       TOTAL SWAP PSS:        0
+        TOTAL   235138   221088     4404        0   141735   115376    26358
+               TOTAL:   235138       TOTAL SWAP PSS:        0
+        TOTAL   234881   220836     4404        0   141733   115344    26388
+               TOTAL:   234881       TOTAL SWAP PSS:        0
+        TOTAL   234877   220832     4404        0   141733   115343    26389
+               TOTAL:   234877       TOTAL SWAP PSS:        0
+        TOTAL   234873   220828     4404        0   141733   115344    26388
+               TOTAL:   234873       TOTAL SWAP PSS:        0
+        TOTAL   234861   220816     4404        0   141733   115345    26387
+               TOTAL:   234861       TOTAL SWAP PSS:        0
+        TOTAL   234882   220836     4404        0   141733   115343    26389
+               TOTAL:   234882       TOTAL SWAP PSS:        0
+        TOTAL   234874   220828     4404        0   141733   115343    26389
+               TOTAL:   234874       TOTAL SWAP PSS:        0
+        TOTAL   234849   220804     4404        0   141733   115311    26421
+               TOTAL:   234849       TOTAL SWAP PSS:        0
+        TOTAL   234866   220820     4404        0   141733   115313    26419
+               TOTAL:   234866       TOTAL SWAP PSS:        0
+        TOTAL   234851   220816     4396        0   141733   115311    26421
+               TOTAL:   234851       TOTAL SWAP PSS:        0
+        TOTAL   234843   220808     4396        0   141732   115310    26421
+               TOTAL:   234843       TOTAL SWAP PSS:        0
+        TOTAL   234856   220820     4396        0   141732   115310    26421
+               TOTAL:   234856       TOTAL SWAP PSS:        0
+        TOTAL   234851   220816     4396        0   141732   115310    26421
+               TOTAL:   234851       TOTAL SWAP PSS:        0
+        TOTAL   234856   220820     4396        0   141732   115309    26422
+               TOTAL:   234856       TOTAL SWAP PSS:        0
+        TOTAL   234847   220812     4396        0   141732   115306    26425
+               TOTAL:   234847       TOTAL SWAP PSS:        0
+        TOTAL   234843   220808     4396        0   141732   115306    26425
+               TOTAL:   234843       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141732   115311    26420
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234867   220832     4396        0   141731   115310    26420
+               TOTAL:   234867       TOTAL SWAP PSS:        0
+        TOTAL   234864   220828     4396        0   141731   115310    26420
+               TOTAL:   234864       TOTAL SWAP PSS:        0
+        TOTAL   234871   220836     4396        0   141731   115310    26420
+               TOTAL:   234871       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141731   115311    26419
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234867   220832     4396        0   141731   115309    26421
+               TOTAL:   234867       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141731   115309    26421
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234864   220828     4396        0   141731   115309    26421
+               TOTAL:   234864       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141731   115310    26420
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234872   220836     4396        0   141731   115309    26421
+               TOTAL:   234872       TOTAL SWAP PSS:        0
+        TOTAL   234855   220820     4396        0   141731   115309    26421
+               TOTAL:   234855       TOTAL SWAP PSS:        0
+        TOTAL   234855   220820     4396        0   141731   115309    26421
+               TOTAL:   234855       TOTAL SWAP PSS:        0
+        TOTAL   234871   220836     4396        0   141731   115310    26420
+               TOTAL:   234871       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141731   115309    26421
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141731   115325    26405
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234868   220832     4396        0   141731   115309    26421
+               TOTAL:   234868       TOTAL SWAP PSS:        0
+        TOTAL   234852   220816     4396        0   141795   115343    26451
+               TOTAL:   234852       TOTAL SWAP PSS:        0
+        TOTAL   234891   220856     4396        0   141731   115307    26423
+               TOTAL:   234891       TOTAL SWAP PSS:        0
+        TOTAL   234867   220832     4396        0   141731   115306    26424
+               TOTAL:   234867       TOTAL SWAP PSS:        0
+        TOTAL   234868   220832     4396        0   141731   115306    26424
+               TOTAL:   234868       TOTAL SWAP PSS:        0
+        TOTAL   234864   220828     4396        0   141731   115307    26423
+               TOTAL:   234864       TOTAL SWAP PSS:        0
+        TOTAL   234864   220828     4396        0   141731   115306    26424
+               TOTAL:   234864       TOTAL SWAP PSS:        0
+        TOTAL   234855   220820     4396        0   141731   115306    26424
+               TOTAL:   234855       TOTAL SWAP PSS:        0
+        TOTAL   234872   220836     4396        0   141731   115306    26424
+               TOTAL:   234872       TOTAL SWAP PSS:        0
+        TOTAL   234859   220824     4396        0   141731   115307    26423
+               TOTAL:   234859       TOTAL SWAP PSS:        0
+        TOTAL   234867   220832     4396        0   141763   115322    26440
+               TOTAL:   234867       TOTAL SWAP PSS:        0
+        TOTAL   234758   220844     4352        0   141733   115328    26404
+               TOTAL:   234758       TOTAL SWAP PSS:        0
+        TOTAL   234715   220836     4316        0   141731   115317    26413
+               TOTAL:   234715       TOTAL SWAP PSS:        0
+        TOTAL   234675   220828     4316        0   141731   115318    26412
+               TOTAL:   234675       TOTAL SWAP PSS:        0
+        TOTAL   234679   220832     4316        0   141731   115316    26414
+               TOTAL:   234679       TOTAL SWAP PSS:        0
+        TOTAL   234726   220880     4316        0   141792   115343    26448
+               TOTAL:   234726       TOTAL SWAP PSS:        0
+        TOTAL   234826   220980     4316        0   141781   115341    26439
+               TOTAL:   234826       TOTAL SWAP PSS:        0
+        TOTAL   234826   220980     4316        0   141786   115411    26374
+               TOTAL:   234826       TOTAL SWAP PSS:        0
+        TOTAL   234658   220812     4316        0   141842   115414    26427
+               TOTAL:   234658       TOTAL SWAP PSS:        0
+        TOTAL   234699   220852     4316        0   141841   115414    26426
+               TOTAL:   234699       TOTAL SWAP PSS:        0
+        TOTAL   234674   220828     4316        0   141734   115343    26390
+               TOTAL:   234674       TOTAL SWAP PSS:        0
+        TOTAL   234600   220808     4316        0   141734   115187    26546
+               TOTAL:   234600       TOTAL SWAP PSS:        0
+        TOTAL   249351   235620     4312        0   141733   115187    26545
+               TOTAL:   249351       TOTAL SWAP PSS:        0
+        TOTAL   234379   220620     4316        0   141733   115186    26546
+               TOTAL:   234379       TOTAL SWAP PSS:        0
+        TOTAL   234379   220620     4316        0   141733   115203    26529
+               TOTAL:   234379       TOTAL SWAP PSS:        0
+        TOTAL   249311   235552     4316        0   141733   115185    26547
+               TOTAL:   249311       TOTAL SWAP PSS:        0
+        TOTAL   238895   225136     4316        0   141733   115185    26547
+               TOTAL:   238895       TOTAL SWAP PSS:        0
+        TOTAL   246411   232652     4316        0   141733   115185    26547
+               TOTAL:   246411       TOTAL SWAP PSS:        0
+        TOTAL   246359   232600     4316        0   141733   115185    26547
+               TOTAL:   246359       TOTAL SWAP PSS:        0
+        TOTAL   247847   234088     4316        0   141733   115185    26547
+               TOTAL:   247847       TOTAL SWAP PSS:        0
+        TOTAL   249287   235528     4316        0   141733   115185    26547
+               TOTAL:   249287       TOTAL SWAP PSS:        0
+        TOTAL   249311   235552     4316        0   141733   115183    26549
+               TOTAL:   249311       TOTAL SWAP PSS:        0
+        TOTAL   234223   220464     4316        0   141733   115205    26527
+               TOTAL:   234223       TOTAL SWAP PSS:        0
+        TOTAL   249743   235984     4316        0   142273   115955    26317
+               TOTAL:   249743       TOTAL SWAP PSS:        0
+        TOTAL   273111   259488     4284        0   141926   115897    26028
+               TOTAL:   273111       TOTAL SWAP PSS:        0
+        TOTAL   269799   256176     4284        0   144748   118010    26737
+               TOTAL:   269799       TOTAL SWAP PSS:        0
+        TOTAL   281100   267472     4292        0   145187   118593    26593
+               TOTAL:   281100       TOTAL SWAP PSS:        0
+        TOTAL   309081   295620     4172        0   144711   118109    26601
+               TOTAL:   309081       TOTAL SWAP PSS:        0
+        TOTAL   247970   234496     4172        0   144650   118211    26438
+               TOTAL:   247970       TOTAL SWAP PSS:        0
+        TOTAL   239658   226184     4172        0   144650   118451    26198
+               TOTAL:   239658       TOTAL SWAP PSS:        0
+        TOTAL   239649   226176     4172        0   144644   118447    26196
+               TOTAL:   239649       TOTAL SWAP PSS:        0
+        TOTAL   239497   226024     4172        0   144633   118419    26213
+               TOTAL:   239497       TOTAL SWAP PSS:        0
+        TOTAL   239685   226212     4172        0   144623   118482    26140
+               TOTAL:   239685       TOTAL SWAP PSS:        0
+        TOTAL   243533   230060     4172        0   144625   118443    26181
+               TOTAL:   243533       TOTAL SWAP PSS:        0
+        TOTAL   249228   235756     4172        0   144623   118437    26185
+               TOTAL:   249228       TOTAL SWAP PSS:        0
+        TOTAL   248748   235276     4172        0   144623   118435    26187
+               TOTAL:   248748       TOTAL SWAP PSS:        0
+        TOTAL   249232   235760     4172        0   144726   118488    26237
+               TOTAL:   249232       TOTAL SWAP PSS:        0
+        TOTAL   247540   234068     4172        0   144624   118339    26284
+               TOTAL:   247540       TOTAL SWAP PSS:        0
+        TOTAL   248836   235364     4172        0   144623   118340    26282
+               TOTAL:   248836       TOTAL SWAP PSS:        0
+        TOTAL   248120   234648     4172        0   144623   118338    26284
+               TOTAL:   248120       TOTAL SWAP PSS:        0
+        TOTAL   248628   235156     4172        0   144655   118356    26298
+               TOTAL:   248628       TOTAL SWAP PSS:        0
+        TOTAL   245784   232312     4172        0   144623   118338    26284
+               TOTAL:   245784       TOTAL SWAP PSS:        0
+        TOTAL   248372   234900     4172        0   144622   118336    26285
+               TOTAL:   248372       TOTAL SWAP PSS:        0
+        TOTAL   248848   235376     4172        0   144622   118336    26285
+               TOTAL:   248848       TOTAL SWAP PSS:        0
+        TOTAL   248840   235368     4172        0   144622   118336    26285
+               TOTAL:   248840       TOTAL SWAP PSS:        0
+        TOTAL   233292   219820     4172        0   144622   118336    26285
+               TOTAL:   233292       TOTAL SWAP PSS:        0
+        TOTAL   243948   230476     4172        0   144622   118335    26286
+               TOTAL:   243948       TOTAL SWAP PSS:        0
+        TOTAL   248548   235076     4172        0   144622   118329    26292
+               TOTAL:   248548       TOTAL SWAP PSS:        0
+        TOTAL   233296   219824     4172        0   144622   118324    26297
+               TOTAL:   233296       TOTAL SWAP PSS:        0
+        TOTAL   248507   235036     4172        0   144622   118362    26259
+               TOTAL:   248507       TOTAL SWAP PSS:        0
+        TOTAL   248239   234768     4172        0   144622   118120    26501
+               TOTAL:   248239       TOTAL SWAP PSS:        0
+        TOTAL   242629   229136     4212        0   146899   119788    27110
+               TOTAL:   242629       TOTAL SWAP PSS:        0
+        TOTAL   280358   266832     4248        0   145309   120312    24996
+               TOTAL:   280358       TOTAL SWAP PSS:        0
+        TOTAL   251645   238128     4248        0   145245   119653    25591
+               TOTAL:   251645       TOTAL SWAP PSS:        0
+        TOTAL   251541   238024     4248        0   145311   119731    25579
+               TOTAL:   251541       TOTAL SWAP PSS:        0
+        TOTAL   251717   238200     4248        0   145213   119681    25531
+               TOTAL:   251717       TOTAL SWAP PSS:        0
+        TOTAL   252483   238968     4248        0   145213   119680    25532
+               TOTAL:   252483       TOTAL SWAP PSS:        0
+        TOTAL   250031   236516     4248        0   145212   119679    25532
+               TOTAL:   250031       TOTAL SWAP PSS:        0
+        TOTAL   252503   238988     4248        0   145211   119679    25531
+               TOTAL:   252503       TOTAL SWAP PSS:        0
+        TOTAL   237235   223720     4248        0   145211   119679    25531
+               TOTAL:   237235       TOTAL SWAP PSS:        0
+        TOTAL   252747   239232     4248        0   145211   119678    25532
+               TOTAL:   252747       TOTAL SWAP PSS:        0
+        TOTAL   250179   236664     4248        0   145211   119678    25532
+               TOTAL:   250179       TOTAL SWAP PSS:        0
+        TOTAL   237231   223716     4248        0   145211   119678    25532
+               TOTAL:   237231       TOTAL SWAP PSS:        0
+        TOTAL   236735   223220     4248        0   145212   119665    25546
+               TOTAL:   236735       TOTAL SWAP PSS:        0
+        TOTAL   252470   238972     4244        0   145211   119665    25545
+               TOTAL:   252470       TOTAL SWAP PSS:        0
+        TOTAL   236879   223364     4248        0   145212   119665    25546
+               TOTAL:   236879       TOTAL SWAP PSS:        0
+        TOTAL   236876   223360     4248        0   145211   119664    25546
+               TOTAL:   236876       TOTAL SWAP PSS:        0
+        TOTAL   236880   223364     4248        0   145211   119665    25545
+               TOTAL:   236880       TOTAL SWAP PSS:        0
+        TOTAL   236876   223360     4248        0   145210   119663    25546
+               TOTAL:   236876       TOTAL SWAP PSS:        0
+        TOTAL   236883   223368     4248        0   145210   119665    25544
+               TOTAL:   236883       TOTAL SWAP PSS:        0
+        TOTAL   236871   223356     4248        0   145210   119664    25545
+               TOTAL:   236871       TOTAL SWAP PSS:        0
+        TOTAL   236879   223364     4248        0   145210   119665    25544
+               TOTAL:   236879       TOTAL SWAP PSS:        0
+        TOTAL   236875   223360     4248        0   145210   119658    25551
+               TOTAL:   236875       TOTAL SWAP PSS:        0
+        TOTAL   236867   223352     4248        0   145210   119658    25551
+               TOTAL:   236867       TOTAL SWAP PSS:        0
+        TOTAL   236880   223364     4248        0   145210   119657    25552
+               TOTAL:   236880       TOTAL SWAP PSS:        0
+        TOTAL   236871   223356     4248        0   145210   119658    25551
+               TOTAL:   236871       TOTAL SWAP PSS:        0
+        TOTAL   236867   223352     4248        0   145210   119622    25587
+               TOTAL:   236867       TOTAL SWAP PSS:        0
+        TOTAL   236259   222744     4248        0   145210   119622    25587
+               TOTAL:   236259       TOTAL SWAP PSS:        0
+        TOTAL   236264   222748     4248        0   145210   119621    25588
+               TOTAL:   236264       TOTAL SWAP PSS:        0
+        TOTAL   236260   222744     4248        0   145210   119639    25570
+               TOTAL:   236260       TOTAL SWAP PSS:        0
+        TOTAL   236255   222740     4248        0   145210   119623    25586
+               TOTAL:   236255       TOTAL SWAP PSS:        0
+        TOTAL   236263   222748     4248        0   145210   119622    25587
+               TOTAL:   236263       TOTAL SWAP PSS:        0
+        TOTAL   236259   222744     4248        0   145210   119620    25589
+               TOTAL:   236259       TOTAL SWAP PSS:        0
+        TOTAL   236255   222740     4248        0   145209   119621    25587
+               TOTAL:   236255       TOTAL SWAP PSS:        0
+        TOTAL   236260   222744     4248        0   145208   119619    25588
+               TOTAL:   236260       TOTAL SWAP PSS:        0
+        TOTAL   236256   222740     4248        0   145208   119523    25684
+               TOTAL:   236256       TOTAL SWAP PSS:        0
+        TOTAL   236259   222744     4248        0   145208   119522    25685
+               TOTAL:   236259       TOTAL SWAP PSS:        0
+        TOTAL   236256   222740     4248        0   145208   119523    25684
+               TOTAL:   236256       TOTAL SWAP PSS:        0
+        TOTAL   236263   222748     4248        0   145208   119523    25684
+               TOTAL:   236263       TOTAL SWAP PSS:        0
+        TOTAL   236271   222756     4248        0   145208   119523    25684
+               TOTAL:   236271       TOTAL SWAP PSS:        0
+        TOTAL   236259   222744     4248        0   145208   119524    25683
+               TOTAL:   236259       TOTAL SWAP PSS:        0
+        TOTAL   236251   222736     4248        0   145208   119525    25682
+               TOTAL:   236251       TOTAL SWAP PSS:        0
+        TOTAL   236256   222740     4248        0   145208   119525    25682
+               TOTAL:   236256       TOTAL SWAP PSS:        0
+        TOTAL   236256   222740     4248        0   145208   119525    25682
+               TOTAL:   236256       TOTAL SWAP PSS:        0
+        TOTAL   236263   222748     4248        0   145208   119524    25683
+               TOTAL:   236263       TOTAL SWAP PSS:        0
+        TOTAL   236251   222736     4248        0   145240   119541    25698
+               TOTAL:   236251       TOTAL SWAP PSS:        0
+        TOTAL   236271   222752     4252        0   145243   119586    25656
+               TOTAL:   236271       TOTAL SWAP PSS:        0
+        TOTAL   236291   222772     4252        0   145209   119519    25689
+               TOTAL:   236291       TOTAL SWAP PSS:        0
+        TOTAL   236264   222744     4252        0   145208   119517    25690
+               TOTAL:   236264       TOTAL SWAP PSS:        0
+        TOTAL   236268   222748     4252        0   145213   119521    25691
+               TOTAL:   236268       TOTAL SWAP PSS:        0
+        TOTAL   236404   222884     4252        0   145210   119519    25690
+               TOTAL:   236404       TOTAL SWAP PSS:        0
+        TOTAL   236395   222876     4252        0   145210   119519    25690
+               TOTAL:   236395       TOTAL SWAP PSS:        0
+        TOTAL   236395   222876     4252        0   145210   119517    25692
+               TOTAL:   236395       TOTAL SWAP PSS:        0
+        TOTAL   236179   222660     4252        0   145210   119516    25693
+               TOTAL:   236179       TOTAL SWAP PSS:        0
+        TOTAL   236184   222664     4252        0   145210   119516    25693
+               TOTAL:   236184       TOTAL SWAP PSS:        0
+        TOTAL   236192   222672     4252        0   145210   119516    25693
+               TOTAL:   236192       TOTAL SWAP PSS:        0
+        TOTAL   236187   222668     4252        0   145210   119514    25695
+               TOTAL:   236187       TOTAL SWAP PSS:        0
+        TOTAL   236183   222664     4252        0   145210   119515    25694
+               TOTAL:   236183       TOTAL SWAP PSS:        0
+        TOTAL   236188   222668     4252        0   145210   119515    25694
+               TOTAL:   236188       TOTAL SWAP PSS:        0
+        TOTAL   236180   222660     4252        0   145210   119516    25693
+               TOTAL:   236180       TOTAL SWAP PSS:        0
+        TOTAL   236187   222668     4252        0   145210   119514    25695
+               TOTAL:   236187       TOTAL SWAP PSS:        0
+        TOTAL   236176   222656     4252        0   145210   119515    25694
+               TOTAL:   236176       TOTAL SWAP PSS:        0
+        TOTAL   236179   222660     4252        0   145210   119513    25696
+               TOTAL:   236179       TOTAL SWAP PSS:        0
+        TOTAL   236172   222652     4252        0   145210   119512    25697
+               TOTAL:   236172       TOTAL SWAP PSS:        0
+        TOTAL   236184   222664     4252        0   145210   119511    25698
+               TOTAL:   236184       TOTAL SWAP PSS:        0
+        TOTAL   236184   222664     4252        0   145210   119506    25703
+               TOTAL:   236184       TOTAL SWAP PSS:        0
+        TOTAL   236183   222664     4252        0   145210   119502    25707
+               TOTAL:   236183       TOTAL SWAP PSS:        0
+        TOTAL   236168   222656     4252        0   145210   119502    25707
+               TOTAL:   236168       TOTAL SWAP PSS:        0
+        TOTAL   236181   222668     4252        0   145210   119497    25712
+               TOTAL:   236181       TOTAL SWAP PSS:        0
+        TOTAL   236167   222660     4252        0   145210   119496    25713
+               TOTAL:   236167       TOTAL SWAP PSS:        0
+        TOTAL   236173   222668     4252        0   145210   119496    25713
+               TOTAL:   236173       TOTAL SWAP PSS:        0
+        TOTAL   235662   222664     4024        0   145210   119490    25719
+               TOTAL:   235662       TOTAL SWAP PSS:        0
+        TOTAL   235661   222664     4024        0   145210   119489    25720
+               TOTAL:   235661       TOTAL SWAP PSS:        0
+        TOTAL   235654   222656     4024        0   145210   119490    25719
+               TOTAL:   235654       TOTAL SWAP PSS:        0
+        TOTAL   235658   222660     4024        0   145210   119487    25722
+               TOTAL:   235658       TOTAL SWAP PSS:        0
+        TOTAL   235637   222656     4024        0   145210   119487    25722
+               TOTAL:   235637       TOTAL SWAP PSS:        0
+        TOTAL   235626   222660     4024        0   145210   119486    25723
+               TOTAL:   235626       TOTAL SWAP PSS:        0
+        TOTAL   235634   222668     4024        0   145210   119475    25734
+               TOTAL:   235634       TOTAL SWAP PSS:        0
+        TOTAL   235626   222660     4024        0   145209   119470    25738
+               TOTAL:   235626       TOTAL SWAP PSS:        0
+        TOTAL   235627   222660     4024        0   145208   119469    25738
+               TOTAL:   235627       TOTAL SWAP PSS:        0
+        TOTAL   235623   222656     4024        0   145208   119461    25746
+               TOTAL:   235623       TOTAL SWAP PSS:        0
+        TOTAL   235630   222664     4024        0   145208   119462    25745
+               TOTAL:   235630       TOTAL SWAP PSS:        0
+        TOTAL   235610   222664     4020        0   145208   119462    25745
+               TOTAL:   235610       TOTAL SWAP PSS:        0
+        TOTAL   235419   222672     3928        0   145209   119467    25741
+               TOTAL:   235419       TOTAL SWAP PSS:        0
+        TOTAL   236198   223452     3928        0   145242   119540    25701
+               TOTAL:   236198       TOTAL SWAP PSS:        0
+        TOTAL   236292   223572     3912        0   145210   119553    25656
+               TOTAL:   236292       TOTAL SWAP PSS:        0
+        TOTAL   236280   223560     3912        0   145210   119552    25657
+               TOTAL:   236280       TOTAL SWAP PSS:        0
+        TOTAL   236246   223552     3912        0   145210   119552    25657
+               TOTAL:   236246       TOTAL SWAP PSS:        0
+        TOTAL   236246   223552     3912        0   145210   119551    25658
+               TOTAL:   236246       TOTAL SWAP PSS:        0
+        TOTAL   236246   223556     3908        0   145210   119552    25657
+               TOTAL:   236246       TOTAL SWAP PSS:        0
+        TOTAL   236122   223552     3844        0   145210   119552    25657
+               TOTAL:   236122       TOTAL SWAP PSS:        0
+        TOTAL   236122   223556     3844        0   145185   119539    25645
+               TOTAL:   236122       TOTAL SWAP PSS:        0
+        TOTAL   236114   223548     3844        0   145182   119538    25643
+               TOTAL:   236114       TOTAL SWAP PSS:        0
+        TOTAL   236102   223536     3844        0   145182   119538    25643
+               TOTAL:   236102       TOTAL SWAP PSS:        0
+        TOTAL   236122   223556     3844        0   145182   119539    25642
+               TOTAL:   236122       TOTAL SWAP PSS:        0
+        TOTAL   236110   223544     3844        0   145181   119539    25641
+               TOTAL:   236110       TOTAL SWAP PSS:        0
+        TOTAL   236118   223552     3844        0   145181   119538    25642
+               TOTAL:   236118       TOTAL SWAP PSS:        0
+        TOTAL   236107   223540     3844        0   145181   119538    25642
+               TOTAL:   236107       TOTAL SWAP PSS:        0
+        TOTAL   236107   223540     3844        0   145186   119541    25644
+               TOTAL:   236107       TOTAL SWAP PSS:        0
+        TOTAL   236239   223672     3844        0   145183   119540    25642
+               TOTAL:   236239       TOTAL SWAP PSS:        0
+        TOTAL   236235   223672     3840        0   145183   119539    25643
+               TOTAL:   236235       TOTAL SWAP PSS:        0
+        TOTAL   236240   223688     3828        0   145248   119574    25673
+               TOTAL:   236240       TOTAL SWAP PSS:        0
+        TOTAL   236248   223696     3828        0   145184   119543    25640
+               TOTAL:   236248       TOTAL SWAP PSS:        0
+        TOTAL   236248   223696     3828        0   145184   119537    25646
+               TOTAL:   236248       TOTAL SWAP PSS:        0
+        TOTAL   236264   223712     3828        0   145249   119560    25688
+               TOTAL:   236264       TOTAL SWAP PSS:        0
+        TOTAL   236244   223692     3828        0   145185   119519    25665
+               TOTAL:   236244       TOTAL SWAP PSS:        0
+        TOTAL   236237   223684     3828        0   145249   119571    25677
+               TOTAL:   236237       TOTAL SWAP PSS:        0
+        TOTAL   236120   223568     3828        0   145185   119490    25694
+               TOTAL:   236120       TOTAL SWAP PSS:        0
+        TOTAL   236072   223520     3828        0   145184   119478    25705
+               TOTAL:   236072       TOTAL SWAP PSS:        0
+        TOTAL   236080   223528     3828        0   145248   119510    25737
+               TOTAL:   236080       TOTAL SWAP PSS:        0
+        TOTAL   236105   223552     3828        0   145185   119480    25704
+               TOTAL:   236105       TOTAL SWAP PSS:        0
+        TOTAL   236068   223516     3828        0   145184   119476    25707
+               TOTAL:   236068       TOTAL SWAP PSS:        0
+        TOTAL   236068   223516     3828        0   145184   119474    25709
+               TOTAL:   236068       TOTAL SWAP PSS:        0
+        TOTAL   236052   223500     3828        0   145184   119474    25709
+               TOTAL:   236052       TOTAL SWAP PSS:        0
+        TOTAL   236009   223456     3828        0   145181   119420    25760
+               TOTAL:   236009       TOTAL SWAP PSS:        0
+        TOTAL   236009   223456     3828        0   145175   119417    25757
+               TOTAL:   236009       TOTAL SWAP PSS:        0
+        TOTAL   236017   223464     3828        0   145175   119416    25758
+               TOTAL:   236017       TOTAL SWAP PSS:        0
+        TOTAL   236001   223448     3828        0   145175   119416    25758
+               TOTAL:   236001       TOTAL SWAP PSS:        0
+        TOTAL   236001   223448     3828        0   145175   119417    25757
+               TOTAL:   236001       TOTAL SWAP PSS:        0
+        TOTAL   236008   223456     3828        0   145176   119413    25762
+               TOTAL:   236008       TOTAL SWAP PSS:        0
+        TOTAL   236042   223492     3828        0   145175   119395    25779
+               TOTAL:   236042       TOTAL SWAP PSS:        0
+        TOTAL   245387   232920     3820        0   145175   119393    25781
+               TOTAL:   245387       TOTAL SWAP PSS:        0
+        TOTAL   247955   235488     3820        0   145175   119394    25780
+               TOTAL:   247955       TOTAL SWAP PSS:        0
+        TOTAL   235759   223292     3820        0   145175   119393    25781
+               TOTAL:   235759       TOTAL SWAP PSS:        0
+        TOTAL   235764   223296     3820        0   145175   119394    25780
+               TOTAL:   235764       TOTAL SWAP PSS:        0
+        TOTAL   251515   239048     3820        0   145175   119392    25782
+               TOTAL:   251515       TOTAL SWAP PSS:        0
+        TOTAL   246919   234452     3820        0   145175   119394    25780
+               TOTAL:   246919       TOTAL SWAP PSS:        0
+        TOTAL   246195   233728     3820        0   145722   119732    25989
+               TOTAL:   246195       TOTAL SWAP PSS:        0
+        TOTAL   245007   232532     3828        0   147885   121717    26167
+               TOTAL:   245007       TOTAL SWAP PSS:        0
+        TOTAL   266196   253612     3940        0   148354   122030    26323
+               TOTAL:   266196       TOTAL SWAP PSS:        0
+        TOTAL   237460   224832     3984        0   148505   120844    27660
+               TOTAL:   237460       TOTAL SWAP PSS:        0
+        TOTAL   237660   225032     3984        0   148183   120700    27482
+               TOTAL:   237660       TOTAL SWAP PSS:        0
+        TOTAL   231248   218620     3984        0   148183   120718    27464
+               TOTAL:   231248       TOTAL SWAP PSS:        0
+        TOTAL   220924   208296     3984        0   148183   120703    27479
+               TOTAL:   220924       TOTAL SWAP PSS:        0
+        TOTAL   220920   208292     3984        0   148183   120702    27480
+               TOTAL:   220920       TOTAL SWAP PSS:        0
+        TOTAL   236952   224324     3984        0   148183   120703    27479
+               TOTAL:   236952       TOTAL SWAP PSS:        0
+        TOTAL   236480   223852     3984        0   148183   120702    27480
+               TOTAL:   236480       TOTAL SWAP PSS:        0
+        TOTAL   235928   223300     3984        0   148183   120703    27479
+               TOTAL:   235928       TOTAL SWAP PSS:        0
+        TOTAL   234944   222316     3984        0   148183   120700    27482
+               TOTAL:   234944       TOTAL SWAP PSS:        0
+        TOTAL   235148   222520     3984        0   148183   120688    27494
+               TOTAL:   235148       TOTAL SWAP PSS:        0
+        TOTAL   240726   228056     3992        0   148253   120819    27433
+               TOTAL:   240726       TOTAL SWAP PSS:        0
+        TOTAL   238644   225896     4068        0   148197   120887    27309
+               TOTAL:   238644       TOTAL SWAP PSS:        0
+        TOTAL   235020   222272     4068        0   148224   120901    27322
+               TOTAL:   235020       TOTAL SWAP PSS:        0
+        TOTAL   239376   226628     4068        0   148192   120886    27305
+               TOTAL:   239376       TOTAL SWAP PSS:        0
+        TOTAL   240212   227464     4068        0   148252   120908    27343
+               TOTAL:   240212       TOTAL SWAP PSS:        0
+        TOTAL   236376   223628     4068        0   148230   121028    27201
+               TOTAL:   236376       TOTAL SWAP PSS:        0
+        TOTAL   240960   228212     4068        0   148190   120876    27313
+               TOTAL:   240960       TOTAL SWAP PSS:        0
+        TOTAL   237720   224972     4068        0   148190   120873    27316
+               TOTAL:   237720       TOTAL SWAP PSS:        0
+        TOTAL   235684   222936     4068        0   148190   120873    27316
+               TOTAL:   235684       TOTAL SWAP PSS:        0
+        TOTAL   224761   212020     4064        0   148190   120874    27315
+               TOTAL:   224761       TOTAL SWAP PSS:        0
+        TOTAL   240977   228236     4064        0   148190   120871    27318
+               TOTAL:   240977       TOTAL SWAP PSS:        0
+        TOTAL   240953   228212     4064        0   148190   120871    27318
+               TOTAL:   240953       TOTAL SWAP PSS:        0
+        TOTAL   239513   226772     4064        0   148190   120868    27321
+               TOTAL:   239513       TOTAL SWAP PSS:        0
+        TOTAL   232857   220116     4064        0   148190   120869    27320
+               TOTAL:   232857       TOTAL SWAP PSS:        0
+        TOTAL   239997   227256     4064        0   148190   120869    27320
+               TOTAL:   239997       TOTAL SWAP PSS:        0
+        TOTAL   236025   223284     4064        0   148190   120869    27320
+               TOTAL:   236025       TOTAL SWAP PSS:        0
+        TOTAL   234645   221904     4064        0   148190   120869    27320
+               TOTAL:   234645       TOTAL SWAP PSS:        0
+        TOTAL   240013   227272     4064        0   148190   120868    27321
+               TOTAL:   240013       TOTAL SWAP PSS:        0
+        TOTAL   235165   222424     4064        0   148190   120868    27321
+               TOTAL:   235165       TOTAL SWAP PSS:        0
+        TOTAL   238997   226256     4064        0   148188   120867    27320
+               TOTAL:   238997       TOTAL SWAP PSS:        0
+        TOTAL   224773   212032     4064        0   148188   120867    27320
+               TOTAL:   224773       TOTAL SWAP PSS:        0
+        TOTAL   224761   212020     4064        0   148188   120882    27305
+               TOTAL:   224761       TOTAL SWAP PSS:        0
+        TOTAL   240785   228044     4064        0   148188   120867    27320
+               TOTAL:   240785       TOTAL SWAP PSS:        0
+        TOTAL   237597   224856     4064        0   148219   120561    27657
+               TOTAL:   237597       TOTAL SWAP PSS:        0
+        TOTAL   224840   212116     4060        0   148187   120463    27723
+               TOTAL:   224840       TOTAL SWAP PSS:        0
+        TOTAL   224861   212112     4064        0   148187   120463    27723
+               TOTAL:   224861       TOTAL SWAP PSS:        0
+        TOTAL   224898   212100     4108        0   148187   120398    27788
+               TOTAL:   224898       TOTAL SWAP PSS:        0
+        TOTAL   224898   212100     4108        0   148187   120399    27787
+               TOTAL:   224898       TOTAL SWAP PSS:        0
+        TOTAL   224894   212096     4108        0   148187   120399    27787
+               TOTAL:   224894       TOTAL SWAP PSS:        0
+        TOTAL   224891   212096     4108        0   148186   120397    27788
+               TOTAL:   224891       TOTAL SWAP PSS:        0
+        TOTAL   224896   212100     4108        0   148186   120395    27790
+               TOTAL:   224896       TOTAL SWAP PSS:        0
+        TOTAL   224886   212092     4108        0   148219   120437    27781
+               TOTAL:   224886       TOTAL SWAP PSS:        0
+        TOTAL   224723   211928     4108        0   148186   120237    27948
+               TOTAL:   224723       TOTAL SWAP PSS:        0
+        TOTAL   224678   211884     4108        0   148185   120236    27948
+               TOTAL:   224678       TOTAL SWAP PSS:        0
+        TOTAL   224675   211880     4108        0   148185   120235    27949
+               TOTAL:   224675       TOTAL SWAP PSS:        0
+        TOTAL   224673   211888     4108        0   148185   120236    27948
+               TOTAL:   224673       TOTAL SWAP PSS:        0
+        TOTAL   224636   211880     4084        0   148185   120236    27948
+               TOTAL:   224636       TOTAL SWAP PSS:        0
+        TOTAL   224615   211872     4064        0   148185   120236    27948
+               TOTAL:   224615       TOTAL SWAP PSS:        0
+        TOTAL   224595   211876     4020        0   148185   120235    27949
+               TOTAL:   224595       TOTAL SWAP PSS:        0
+        TOTAL   224607   211888     4020        0   148185   120236    27948
+               TOTAL:   224607       TOTAL SWAP PSS:        0
+        TOTAL   224606   211888     4020        0   148185   120236    27948
+               TOTAL:   224606       TOTAL SWAP PSS:        0
+        TOTAL   224594   211876     4020        0   148185   120236    27948
+               TOTAL:   224594       TOTAL SWAP PSS:        0
+        TOTAL   224596   211876     4020        0   148185   120235    27949
+               TOTAL:   224596       TOTAL SWAP PSS:        0
+        TOTAL   224586   211868     4020        0   148185   120236    27948
+               TOTAL:   224586       TOTAL SWAP PSS:        0
+        TOTAL   224591   211872     4020        0   148185   120236    27948
+               TOTAL:   224591       TOTAL SWAP PSS:        0
+        TOTAL   224585   211872     4012        0   148185   120236    27948
+               TOTAL:   224585       TOTAL SWAP PSS:        0
+        TOTAL   224587   211872     4012        0   148185   120234    27950
+               TOTAL:   224587       TOTAL SWAP PSS:        0
+        TOTAL   224598   211884     4012        0   148185   120234    27950
+               TOTAL:   224598       TOTAL SWAP PSS:        0
+        TOTAL   224585   211872     4012        0   148185   120234    27950
+               TOTAL:   224585       TOTAL SWAP PSS:        0
+        TOTAL   224587   211884     4012        0   148185   120234    27950
+               TOTAL:   224587       TOTAL SWAP PSS:        0
+        TOTAL   224573   211868     4012        0   148217   120248    27968
+               TOTAL:   224573       TOTAL SWAP PSS:        0
+        TOTAL   224595   211892     4012        0   148190   120232    27957
+               TOTAL:   224595       TOTAL SWAP PSS:        0
+        TOTAL   224711   212008     4012        0   148186   120231    27954
+               TOTAL:   224711       TOTAL SWAP PSS:        0
+        TOTAL   224708   212004     4012        0   148186   120222    27963
+               TOTAL:   224708       TOTAL SWAP PSS:        0
+        TOTAL   224712   212008     4012        0   148186   120222    27963
+               TOTAL:   224712       TOTAL SWAP PSS:        0
+        TOTAL   224677   212000     3996        0   148186   120220    27965
+               TOTAL:   224677       TOTAL SWAP PSS:        0
+        TOTAL   224601   211932     3992        0   148188   120086    28101
+               TOTAL:   224601       TOTAL SWAP PSS:        0
+        TOTAL   224488   211872     3888        0   148186   120084    28101
+               TOTAL:   224488       TOTAL SWAP PSS:        0
+        TOTAL   224480   211864     3888        0   148186   120084    28101
+               TOTAL:   224480       TOTAL SWAP PSS:        0
+        TOTAL   224494   211876     3888        0   148218   120100    28117
+               TOTAL:   224494       TOTAL SWAP PSS:        0
+        TOTAL   224500   211884     3888        0   148252   120148    28103
+               TOTAL:   224500       TOTAL SWAP PSS:        0
+        TOTAL   224536   211920     3888        0   148188   120116    28071
+               TOTAL:   224536       TOTAL SWAP PSS:        0
+        TOTAL   224477   211860     3888        0   148187   120115    28071
+               TOTAL:   224477       TOTAL SWAP PSS:        0
